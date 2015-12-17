@@ -3,7 +3,7 @@
 A curated list of awesome books, videos, courses and resources about making a startup. 
 
 - [Book](#book)
-- [Video and Courses](#Videos-and-Courses)
+- [Video and Courses](#VideosandCourses)
 - 
 # Book
 * [Quotes / Lessons / Videos for Entrepreneurs and Startups](http://www.blockshelf.com/)
