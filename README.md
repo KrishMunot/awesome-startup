@@ -2,7 +2,7 @@
 
 A curated list of awesome books, videos, courses and resources about making a startup. 
 
-- [Book](#book]
+- [Book]
 - [Videos](videos-and-courses)
 - [Utilities](#utilities)
 
