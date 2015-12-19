@@ -6,6 +6,7 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Videos](videos-and-courses)
 - [Utilities](#utilities)
 - [General](#general)
+- [Resorces](#resources)
 
 # Book
 * [Quotes / Lessons / Videos for Entrepreneurs and Startups](http://www.blockshelf.com/)
@@ -51,6 +52,10 @@ A curated list of awesome books, videos, courses and resources about making a st
   - [Do thing's that don't scale](http://paulgraham.com/ds.html)
   - [18 Mistakes that kill startups](http://www.paulgraham.com/startupmistakes.html)
   - [How to raise money](http://www.paulgraham.com/fr.html)
+
+#Resources
+- [Product Hunt](http://www.producthunt.com/)
+- [Hacker News](https://news.ycombinator.com/)
 
 
 
