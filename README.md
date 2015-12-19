@@ -27,6 +27,7 @@ A curated list of awesome books, videos, courses and resources about making a st
 
 # Videos and Courses
 
+- [How to start a startup (course)](https://startupclass.co/course/how-to-start-a-startup)
 - [Steve Jobs' Vision of the World (video)](https://www.youtube.com/watch?feature=player_embedded&v=UvEiSa6_EPA)
 - [This startup founder filmed her struggles (video)](https://giveit100.com/@100/9b924t)
 * [Startup Talks](http://startuptalks.tv/)
@@ -39,7 +40,9 @@ A curated list of awesome books, videos, courses and resources about making a st
 * [How to Start a Startup](http://startupclass.samaltman.com/)
 * [Y Combinator Universe](http://ycuniverse.com/)
 * [Y COMBINATOR STARTUP CLASS](https://courses.platzi.com/classes/startup-class/)
-* [How to start a startup (course)](https://startupclass.co/course/how-to-start-a-startup)
+* - [Authors@Google: Eric Ries "The Lean Startup"](https://www.youtube.com/watch?v=fEvKo90qBns)
+- [Marc Andreessen & Dave McClure: The Future of Startups, VC's, and Technology](https://www.youtube.com/watch?v=pLNQZegq7KA&app=desktop)
+- [Foundation 37 // David Byttow](https://www.youtube.com/watch?feature=player_embedded&v=7PmBk7hgUqg)
 
 ###General
 - [The Lean Startup - Eric Ries (book)](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898)
