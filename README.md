@@ -25,6 +25,8 @@ A curated list of awesome books, videos, courses and resources about making a st
 
 # Videos and Courses
 
+- [Steve Jobs' Vision of the World (video)](https://www.youtube.com/watch?feature=player_embedded&v=UvEiSa6_EPA)
+- [This startup founder filmed her struggles (video)](https://giveit100.com/@100/9b924t)
 * [Startup Talks](http://startuptalks.tv/)
 * [Startup Movies](http://startupmovies.be-genius.com/)
 - [The Lean Launchpad by Steve Blank (Udacity)](https://www.udacity.com/course/ep245) - Learn the key tools and steps to build a successful startup (or at least reduce the risk of failure). An introduction to the basics of Steve Blank's famous Customer Development process, where entrepreneurs "get out of the building" to gather massive amounts of customer and marketplace feedback, and then use that feedback to continuously iterate and evolve their startup business models, improving the chances of success at every step.
@@ -35,6 +37,22 @@ A curated list of awesome books, videos, courses and resources about making a st
 * [How to Start a Startup](http://startupclass.samaltman.com/)
 * [Y Combinator Universe](http://ycuniverse.com/)
 * [Y COMBINATOR STARTUP CLASS](https://courses.platzi.com/classes/startup-class/)
+* [How to start a startup (course)](https://startupclass.co/course/how-to-start-a-startup)
+
+###General
+- [The Lean Startup - Eric Ries (book)](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898)
+- [Running Lean - Ash Maurya (book)](http://www.amazon.com/Running-Lean-Iterate-Works-Series/dp/1449305172)
+- [The Four Steps to the Epiphany - Steve Blank (book)](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507)
+- [Sam Altman's blog](http://blog.samaltman.com/)
+  - [Startup advice, briefly](http://blog.samaltman.com/startup-advice-briefly)
+- [Paul Graham's essays](http://www.paulgraham.com/articles.html)
+  - [How to get startup ideas](http://www.paulgraham.com/startupideas.html)
+  - [Do thing's that don't scale](http://paulgraham.com/ds.html)
+  - [18 Mistakes that kill startups](http://www.paulgraham.com/startupmistakes.html)
+  - [How to raise money](http://www.paulgraham.com/fr.html)
+
+
+
 
 
 
