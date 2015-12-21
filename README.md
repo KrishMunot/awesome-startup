@@ -72,6 +72,21 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [The 30 Best Pieces of Advice for Entrepreneurs in 2013](http://firstround.com/article/30-Best-Pieces)
 - [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)
 
+Engineering:
+
+- [The one cost engineers and product managers don't consider](http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider)
+
+Venture capital and raising money:
+
+- [Black Swan farming by Paul Graham](http://paulgraham.com/swan.html)
+- [How to convince investors by Paul Graham](http://paulgraham.com/convince.html)
+- [How to present to investors by Aaref Hilaly](http://www.sequoiacap.com/grove/posts/bzxr-how-to-present-to-investors)
+- [Breaking Down a Typical VC/Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process/)
+- [Fundraising Mistakes Founders Make](http://blog.samaltman.com/fundraising-mistakes-founder-make)
+- [Pitch Decks for VCs - You’re doing it wrong.](https://medium.com/boost-vc/5-rules-for-the-pitch-deck-d7c7bbc3185d)
+- [Raising Capital: This is the Advice We Give Our Founders](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders/)
+
+
 
 
 
