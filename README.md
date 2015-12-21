@@ -7,6 +7,7 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Utilities](#utilities)
 - [General](#general)
 - [Resorces](#resources)
+- [Reading](#reading)
 
 # Book
 * [Quotes / Lessons / Videos for Entrepreneurs and Startups](http://www.blockshelf.com/)
@@ -59,6 +60,17 @@ A curated list of awesome books, videos, courses and resources about making a st
 #Resources
 - [Product Hunt](http://www.producthunt.com/)
 - [Hacker News](https://news.ycombinator.com/)
+
+#Reading
+- [Ideas are just a multiplier of execution](http://sivers.org/multiply)
+- [Do things that don't scale by Paul Graham](http://paulgraham.com/ds.html)
+- [Startup = Growth by Paul Graham](http://paulgraham.com/growth.html)
+- [What startups are really like by Paul Graham](http://www.paulgraham.com/really.html)
+- [Startup Advice by Sam Altman](http://blog.samaltman.com/startup-advice)
+- [My Best Advice for Entrepreneurs: Learn to Speak](http://www.linkedin.com/today/post/article/20130819204919-62614725-my-best-advice-for-entrepreneurs)
+- [Paul Graham on Building Companies for Fast Growth ](http://www.inc.com/magazine/201309/issie-lapowsky/how-paul-graham-became-successful.html)
+- [The 30 Best Pieces of Advice for Entrepreneurs in 2013](http://firstround.com/article/30-Best-Pieces)
+- [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)
 
 
 
