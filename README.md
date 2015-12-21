@@ -8,6 +8,8 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [General](#general)
 - [Resorces](#resources)
 - [Reading](#reading)
+- [Engineering](#Engineering)
+- [Venture capital and raising money](#Venture capital and raising money)
 
 # Book
 * [Quotes / Lessons / Videos for Entrepreneurs and Startups](http://www.blockshelf.com/)
@@ -72,11 +74,11 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [The 30 Best Pieces of Advice for Entrepreneurs in 2013](http://firstround.com/article/30-Best-Pieces)
 - [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)
 
-Engineering:
+##Engineering:
 
 - [The one cost engineers and product managers don't consider](http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider)
 
-Venture capital and raising money:
+##Venture capital and raising money:
 
 - [Black Swan farming by Paul Graham](http://paulgraham.com/swan.html)
 - [How to convince investors by Paul Graham](http://paulgraham.com/convince.html)
