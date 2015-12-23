@@ -47,7 +47,7 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Marc Andreessen & Dave McClure: The Future of Startups, VC's, and Technology](https://www.youtube.com/watch?v=pLNQZegq7KA&app=desktop)
 - [Foundation 37 // David Byttow](https://www.youtube.com/watch?feature=player_embedded&v=7PmBk7hgUqg)
 
-###General
+#General
 - [The Lean Startup - Eric Ries (book)](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898)
 - [Running Lean - Ash Maurya (book)](http://www.amazon.com/Running-Lean-Iterate-Works-Series/dp/1449305172)
 - [The Four Steps to the Epiphany - Steve Blank (book)](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507)
@@ -74,11 +74,11 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [The 30 Best Pieces of Advice for Entrepreneurs in 2013](http://firstround.com/article/30-Best-Pieces)
 - [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)
 
-##Engineering:
+#Engineering:
 
 - [The one cost engineers and product managers don't consider](http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider)
 
-##Venture capital and raising money:
+#Venture Capital and Raising Money:
 
 - [Black Swan farming by Paul Graham](http://paulgraham.com/swan.html)
 - [How to convince investors by Paul Graham](http://paulgraham.com/convince.html)
