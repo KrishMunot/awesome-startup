@@ -2,7 +2,7 @@
 
 A curated list of awesome books, videos, courses and resources about making a startup. 
 
-- [Book](#book)
+- [Books](#books)
 - [Videos](videos-and-courses)
 - [Utilities](#utilities)
 - [General](#general)
@@ -11,7 +11,7 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Engineering](#Engineering)
 - [Venture capital and raising money](#Venture capital and raising money)
 
-# Book
+# Books
 * [Quotes / Lessons / Videos for Entrepreneurs and Startups](http://www.blockshelf.com/)
 * [For Entrepreneurs](http://powerbooks.strikingly.com/)
 * [Startup Notes](http://startupnotes.org/#page/1)
