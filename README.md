@@ -10,6 +10,8 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Reading](#reading)
 - [Engineering](#Engineering)
 - [Venture capital and raising money](#Venture capital and raising money)
+- [Marketing, Sales & metrics](#Marketing, Sales & metrics:)
+
 
 # Books
 * [Quotes / Lessons / Videos for Entrepreneurs and Startups](http://www.blockshelf.com/)
@@ -90,6 +92,16 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Fundraising Mistakes Founders Make](http://blog.samaltman.com/fundraising-mistakes-founder-make)
 - [Pitch Decks for VCs - You’re doing it wrong.](https://medium.com/boost-vc/5-rules-for-the-pitch-deck-d7c7bbc3185d)
 - [Raising Capital: This is the Advice We Give Our Founders](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders/)
+
+#Marketing, Sales & metrics:
+
+- [The Pmarca Guide to Startups, part 4: The only thing that matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
+- [Startup Metrics for Pirates by Dave McClure](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
+- [Traction Mistakes by Gabriel Weinberg](http://www.gabrielweinberg.com/blog/2012/07/traction-mistakes.html)
+- [How New User Acquisition Channels Drive Change](http://brianbalfour.com/post/58798523560/new-user-acquisition-channels)
+- [Guide to SaaS metrics by David Skok](http://www.forentrepreneurs.com/saas-metrics/)
+- [Free Marketing guides by Kissmetrics](http://blog.kissmetrics.com/marketing-guides/)
+- [Elements of a viral launch page by SmashingMagazine](http://www.smashingmagazine.com/2011/09/01/elements-of-a-viral-launch-page/)
 
 
 
