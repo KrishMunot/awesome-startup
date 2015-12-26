@@ -10,7 +10,7 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Reading](#reading)
 - [Engineering](#Engineering)
 - [Venture capital and raising money](#Venture capital and raising money)
-- [Marketing, Sales & metrics](#Marketing, Sales & metrics:)
+- [Marketing, Sales & metrics](#Marketing, Sales & metrics)
 
 
 # Books
