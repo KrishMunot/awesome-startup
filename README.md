@@ -109,3 +109,7 @@ A curated list of awesome books, videos, courses and resources about making a st
 
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/KrishMunot/awesome-startup/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
