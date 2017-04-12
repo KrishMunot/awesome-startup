@@ -49,7 +49,7 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Marc Andreessen & Dave McClure: The Future of Startups, VC's, and Technology](https://www.youtube.com/watch?v=pLNQZegq7KA&app=desktop)
 - [Foundation 37 // David Byttow](https://www.youtube.com/watch?feature=player_embedded&v=7PmBk7hgUqg)
 
-#General
+# General
 - [The Lean Startup - Eric Ries (book)](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898)
 - [Running Lean - Ash Maurya (book)](http://www.amazon.com/Running-Lean-Iterate-Works-Series/dp/1449305172)
 - [The Four Steps to the Epiphany - Steve Blank (book)](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507)
@@ -61,14 +61,14 @@ A curated list of awesome books, videos, courses and resources about making a st
   - [18 Mistakes that kill startups](http://www.paulgraham.com/startupmistakes.html)
   - [How to raise money](http://www.paulgraham.com/fr.html)
 
-#Resources
+# Resources
 - [Product Hunt](http://www.producthunt.com/)
 - [Hacker News](https://news.ycombinator.com/)
 - [Crunchbase](http://www.crunchbase.com/)
 - [AngelList](https://angel.co/)
 - [Quibb](http://quibb.com/)
 
-#Reading
+# Reading
 - [Ideas are just a multiplier of execution](http://sivers.org/multiply)
 - [Do things that don't scale by Paul Graham](http://paulgraham.com/ds.html)
 - [Startup = Growth by Paul Graham](http://paulgraham.com/growth.html)
@@ -79,11 +79,11 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [The 30 Best Pieces of Advice for Entrepreneurs in 2013](http://firstround.com/article/30-Best-Pieces)
 - [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)
 
-#Engineering:
+# Engineering:
 
 - [The one cost engineers and product managers don't consider](http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider)
 
-#Venture Capital and Raising Money:
+# Venture Capital and Raising Money:
 
 - [Black Swan farming by Paul Graham](http://paulgraham.com/swan.html)
 - [How to convince investors by Paul Graham](http://paulgraham.com/convince.html)
@@ -93,7 +93,7 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Pitch Decks for VCs - You’re doing it wrong.](https://medium.com/boost-vc/5-rules-for-the-pitch-deck-d7c7bbc3185d)
 - [Raising Capital: This is the Advice We Give Our Founders](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders/)
 
-#Marketing, Sales & metrics:
+# Marketing, Sales & metrics:
 
 - [The Pmarca Guide to Startups, part 4: The only thing that matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
 - [Startup Metrics for Pirates by Dave McClure](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
