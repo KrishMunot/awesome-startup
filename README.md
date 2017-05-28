@@ -8,8 +8,8 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Resorces](#resources)
 - [Reading](#reading)
 - [Engineering](#engineering)
-- [Venture Capital and Raising Money](#venture capital and raising money)
-- [Marketing, Sales & metrics](#marketing, Sales & metrics)
+- [Venture Capital and Raising Money](#venture-capital-and-raising-money)
+- [Marketing, Sales & metrics](#marketing,-sales-&-metrics)
 
 
 # Books
@@ -92,7 +92,7 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Pitch Decks for VCs - You’re doing it wrong.](https://medium.com/boost-vc/5-rules-for-the-pitch-deck-d7c7bbc3185d)
 - [Raising Capital: This is the Advice We Give Our Founders](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders/)
 
-# Marketing, Sales & metrics:
+# Marketing Sales & Metrics:
 
 - [The Pmarca Guide to Startups, part 4: The only thing that matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
 - [Startup Metrics for Pirates by Dave McClure](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
