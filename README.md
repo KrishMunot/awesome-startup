@@ -4,13 +4,12 @@ A curated list of awesome books, videos, courses and resources about making a st
 
 - [Books](#books)
 - [Videos](videos-and-courses)
-- [Utilities](#utilities)
 - [General](#general)
 - [Resorces](#resources)
 - [Reading](#reading)
-- [Engineering](#Engineering)
-- [Venture capital and raising money](#Venture capital and raising money)
-- [Marketing, Sales & metrics](#Marketing, Sales & metrics)
+- [Engineering](#engineering)
+- [Venture Capital and Raising Money](#venture capital and raising money)
+- [Marketing, Sales & metrics](#marketing, Sales & metrics)
 
 
 # Books
@@ -102,14 +101,4 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Guide to SaaS metrics by David Skok](http://www.forentrepreneurs.com/saas-metrics/)
 - [Free Marketing guides by Kissmetrics](http://blog.kissmetrics.com/marketing-guides/)
 - [Elements of a viral launch page by SmashingMagazine](http://www.smashingmagazine.com/2011/09/01/elements-of-a-viral-launch-page/)
-
-
-
-
-
-
-
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/KrishMunot/awesome-startup/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
