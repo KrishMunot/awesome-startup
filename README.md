@@ -3,13 +3,13 @@
 A curated list of awesome books, videos, courses and resources about making a startup. 
 
 - [Books](#books)
-- [Videos](videos-and-courses)
+- [Videos](#videos-and-courses)
 - [General](#general)
-- [Resorces](#resources)
+- [Resources](#resources)
 - [Reading](#reading)
 - [Engineering](#engineering)
 - [Venture Capital and Raising Money](#venture-capital-and-raising-money)
-- [Marketing, Sales & metrics](#marketing,-sales-&-metrics)
+- [Marketing, Sales & metrics](#marketing-sales--metrics)
 
 
 # Books
@@ -44,7 +44,7 @@ A curated list of awesome books, videos, courses and resources about making a st
 * [How to Start a Startup](http://startupclass.samaltman.com/)
 * [Y Combinator Universe](http://ycuniverse.com/)
 * [Y COMBINATOR STARTUP CLASS](https://courses.platzi.com/classes/startup-class/)
-* - [Authors@Google: Eric Ries "The Lean Startup"](https://www.youtube.com/watch?v=fEvKo90qBns)
+  - [Authors@Google: Eric Ries "The Lean Startup"](https://www.youtube.com/watch?v=fEvKo90qBns)
 - [Marc Andreessen & Dave McClure: The Future of Startups, VC's, and Technology](https://www.youtube.com/watch?v=pLNQZegq7KA&app=desktop)
 - [Foundation 37 // David Byttow](https://www.youtube.com/watch?feature=player_embedded&v=7PmBk7hgUqg)
 
