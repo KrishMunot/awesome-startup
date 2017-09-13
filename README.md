@@ -66,6 +66,8 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Crunchbase](http://www.crunchbase.com/)
 - [AngelList](https://angel.co/)
 - [Quibb](http://quibb.com/)
+- [BetaPage](https://betapage.co/)
+
 
 # Reading
 - [Ideas are just a multiplier of execution](http://sivers.org/multiply)
