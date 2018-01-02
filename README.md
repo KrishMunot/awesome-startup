@@ -102,8 +102,3 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Free Marketing guides by Kissmetrics](http://blog.kissmetrics.com/marketing-guides/)
 - [Elements of a viral launch page by SmashingMagazine](http://www.smashingmagazine.com/2011/09/01/elements-of-a-viral-launch-page/)
 
-# Task Management & Collaboration:
-
-- [Asana](https://asana.com) - Track your team's work & manage projects 
-- [Trello](https://trello.com) - Create and manage kanban boards
-- [Taskade](https://taskade.com) - Collaborative task lists and outlines
