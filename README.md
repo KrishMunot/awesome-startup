@@ -107,3 +107,11 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Asana](https://asana.com) - Track your team's work & manage projects 
 - [Trello](https://trello.com) - Create and manage kanban boards
 - [Taskade](https://taskade.com) - Collaborative task lists and outlines
+
+# Marketing Tools
+
+- [Buffer](https://buffer.com) - Social Media analytics and Scheduling
+- [BuzzSumo](https://buzzsumo.com) - Find Most Shared Content and Key Influencers
+- [QuickTwit](https://quicktwit.com) - Tools for finding Trends in Topics
+- [SocialBlade](https://socialblade.com/) - Social Media Statistics
+- [IFTTT](https://ifttt.com/) - Create custom triggers to automate social media workflows
