@@ -17,7 +17,6 @@ A curated list of awesome books, videos, courses and resources about making a st
 * [Quotes / Lessons / Videos for Entrepreneurs and Startups](http://www.blockshelf.com/)
 * [For Entrepreneurs](http://powerbooks.strikingly.com/)
 * [Startup Notes](http://startupnotes.org/#page/1)
-* [Startup Edition](http://startupedition.com/)
 * [Hooked: How to Build Habit-Forming Products](http://amzn.com/1591847788)
 - [The Lean Startup by Eric Ries](http://www.amazon.com/Lean-Startup-Innovation-Successful-ebook/dp/B004J4XGN6/)
 - [Business Model Generation by Alexander Osterwalder](http://www.amazon.com/Business-Model-Generation-Visionaries-ebook/dp/B00BD6RFFS/)
