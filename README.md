@@ -1,6 +1,7 @@
-# Awesome Startup [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Startup
+- [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?ie=UTF8&qid=1540102964&sr=8-1&keywords=0+to+1) Notes on Startups, or How to Build the Future [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome books, videos, courses and resources about making a startup. 
+A curated list of awesome books, videos, courses and resources about making a startup.
 
 - [Books](#books)
 - [Videos](#videos-and-courses)
@@ -25,8 +26,10 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Founders At Work by Jessica Livingston](http://www.amazon.com/Founders-Work-Stories-Startups-ebook/dp/B009IXMK4O/) - A collection of interviews about the early days of popular technology companies
 - [The Founder's Dilemmas by Noam Wasserman](http://www.amazon.com/The-Founders-Dilemmas-Entrepreneurship-ebook/dp/B007AIXKUM/) - Drawing on a decade of research, Noam Wasserman reveals the common pitfalls founders face and how to avoid them.
 - [Venture Deals by Brad Feld and Jason Mendelson](http://www.amazon.com/Venture-Deals-Smarter-Capitalist-ebook/dp/B00AO2PWOI/)
-- [Venture Capitalists at Work by Tarang Shah and Sheetal Shah](http://www.amazon.com/Venture-Capitalists-Work-Billion-Dollar-ebook/dp/B006C9EM1Q/) - Venture Capitalists at Work: How VCs Identify and Build Billion-Dollar Successes offers unparalleled insights into the funding and management of companies like YouTube, Zappos, Twitter, Starent, Facebook, and Groupon. The venture capitalists profiled—among the best in the business—also reveal how they identify promising markets, products, and entrepreneurs. 
+- [Venture Capitalists at Work by Tarang Shah and Sheetal Shah](http://www.amazon.com/Venture-Capitalists-Work-Billion-Dollar-ebook/dp/B006C9EM1Q/) - Venture Capitalists at Work: How VCs Identify and Build Billion-Dollar Successes offers unparalleled insights into the funding and management of companies like YouTube, Zappos, Twitter, Starent, Facebook, and Groupon. The venture capitalists profiled—among the best in the business—also reveal how they identify promising markets, products, and entrepreneurs.
 - [Traction: A Startup Guide to Getting Customers](http://www.amazon.com/Traction-Startup-Guide-Getting-Customers-ebook/dp/B00N06Y2DW/)
+- [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?ie=UTF8&qid=1540102964&sr=8-1&keywords=0+to+1) Notes on Startups, or How to Build the Future
+- [Hello, Startup](https://www.hello-startup.net/) - The "Hello, World" tutorial for building a startup
 
 
 # Videos and Courses
@@ -65,9 +68,7 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Hacker News](https://news.ycombinator.com/)
 - [Crunchbase](http://www.crunchbase.com/)
 - [AngelList](https://angel.co/)
-- [Quibb](http://quibb.com/)
 - [BetaPage](https://betapage.co/)
-
 
 # Reading
 - [Ideas are just a multiplier of execution](http://sivers.org/multiply)
@@ -104,3 +105,16 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Free Marketing guides by Kissmetrics](http://blog.kissmetrics.com/marketing-guides/)
 - [Elements of a viral launch page by SmashingMagazine](http://www.smashingmagazine.com/2011/09/01/elements-of-a-viral-launch-page/)
 
+# Task Management & Collaboration:
+
+- [Asana](https://asana.com) - Track your team's work & manage projects
+- [Trello](https://trello.com) - Create and manage kanban boards
+- [Taskade](https://taskade.com) - Collaborative task lists and outlines
+
+# Marketing Tools
+
+- [Buffer](https://buffer.com) - Social Media analytics and Scheduling
+- [BuzzSumo](https://buzzsumo.com) - Find Most Shared Content and Key Influencers
+- [QuickTwit](https://quicktwit.com) - Tools for finding Trends in Topics
+- [SocialBlade](https://socialblade.com/) - Social Media Statistics
+- [IFTTT](https://ifttt.com/) - Create custom triggers to automate social media workflows
