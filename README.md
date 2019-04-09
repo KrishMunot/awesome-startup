@@ -68,6 +68,7 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Hacker News](https://news.ycombinator.com/)
 - [Crunchbase](http://www.crunchbase.com/)
 - [AngelList](https://angel.co/)
+- [BetaPage](https://betapage.co/)
 
 # Reading
 - [Ideas are just a multiplier of execution](http://sivers.org/multiply)
