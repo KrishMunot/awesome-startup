@@ -61,6 +61,7 @@ A curated list of awesome books, videos, courses and resources about making a st
   - [Do thing's that don't scale](http://paulgraham.com/ds.html)
   - [18 Mistakes that kill startups](http://www.paulgraham.com/startupmistakes.html)
   - [How to raise money](http://www.paulgraham.com/fr.html)
+ - [High Output Management - Andrew S. Grove (book)](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
 
 # Resources
 - [Product Hunt](http://www.producthunt.com/)
@@ -68,6 +69,7 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Crunchbase](http://www.crunchbase.com/)
 - [AngelList](https://angel.co/)
 - [BetaPage](https://betapage.co/)
+- [StartupJohn](https://www.startupjohn.com/)
 
 # Reading
 - [Ideas are just a multiplier of execution](http://sivers.org/multiply)
