@@ -29,6 +29,8 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Traction: A Startup Guide to Getting Customers](http://www.amazon.com/Traction-Startup-Guide-Getting-Customers-ebook/dp/B00N06Y2DW/)
 - [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?ie=UTF8&qid=1540102964&sr=8-1&keywords=0+to+1) Notes on Startups, or How to Build the Future
 - [Hello, Startup](https://www.hello-startup.net/) - The "Hello, World" tutorial for building a startup
+* [Tribes: We Need You to Lead Us](https://www.amazon.com/Tribes-We-Need-You-Lead-ebook/dp/B001FA0LAI/) - 
+Seth Godin stresses the importance and benefits of knowing your audience and staying hyper-focused on them to build a loyal following. “With his signature wit and storytelling flair, Godin presents the three steps to building a tribe: the desire to change things, the ability to connect a tribe, and the willingness to lead.”
 
 
 # Videos and Courses
