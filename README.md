@@ -62,6 +62,10 @@ A curated list of awesome books, videos, courses and resources about making a st
   - [18 Mistakes that kill startups](http://www.paulgraham.com/startupmistakes.html)
   - [How to raise money](http://www.paulgraham.com/fr.html)
  - [High Output Management - Andrew S. Grove (book)](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
+- Three business fables by [Patrick Lencioni](https://en.wikipedia.org/wiki/Patrick_Lencioni) that are powerful tools to be a better leader:
+  - [The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team) - Throughout the story, Lencioni reveals the five dysfunctions which go to the very heart of why teams even the best ones-often struggle. He outlines a powerful model and actionable steps that can be used to overcome these common hurdles and build a cohesive, effective team. 
+  - [The Five Temptations of a CEO: A Leadership Fable by Patrick Lencioni](https://www.goodreads.com/book/show/49146.The_Five_Temptations_of_a_CEO) - Patrick Lencioni delivers a provocative message. CEOs mainly have themselves to blame when things go wrong. If you're a CEO (or a manager for that matter), do you have the courage to face it? Doing so could change your future -- for the better.
+  - [The Four Obsessions of an Extraordinary Executive: The Four Disciplines at the Heart of Making Any Organization World Class by Patrick Lencioni](https://www.goodreads.com/book/show/49172.The_Four_Obsessions_of_an_Extraordinary_Executive)  - In this follow-up to his best-selling book, The Five Temptations of a CEO, Patrick Lencioni's focus is on a leader's crucial role in building a healthy organization--an often overlooked but essential element of business life that is the linchpin of sustained success. 
 
 # Resources
 - [Product Hunt](http://www.producthunt.com/)
