@@ -29,6 +29,9 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Traction: A Startup Guide to Getting Customers](http://www.amazon.com/Traction-Startup-Guide-Getting-Customers-ebook/dp/B00N06Y2DW/)
 - [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?ie=UTF8&qid=1540102964&sr=8-1&keywords=0+to+1) Notes on Startups, or How to Build the Future
 - [Hello, Startup](https://www.hello-startup.net/) - The "Hello, World" tutorial for building a startup
+* [Originals: How Non-Conformists Move the World](https://www.amazon.com/Originals-How-Non-Conformists-Move-World-ebook/dp/B00XIYGCDO/) - 
+Just because things have always been done a certain way, doesn’t mean it’s the right way. This book encourages the reader to act on bold, new ideas and not let fear keep them from speaking up and taking risks. 
+“In Originals (Grant) again addresses the challenge of improving the world, but now from the perspective of becoming original: choosing to champion novel ideas and values that go against the grain, battle conformity, and buck outdated traditions.”
 
 
 # Videos and Courses
