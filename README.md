@@ -31,6 +31,9 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Hello, Startup](https://www.hello-startup.net/) - The "Hello, World" tutorial for building a startup
 * [Tribes: We Need You to Lead Us](https://www.amazon.com/Tribes-We-Need-You-Lead-ebook/dp/B001FA0LAI/) - 
 Seth Godin stresses the importance and benefits of knowing your audience and staying hyper-focused on them to build a loyal following. “With his signature wit and storytelling flair, Godin presents the three steps to building a tribe: the desire to change things, the ability to connect a tribe, and the willingness to lead.”
+=======
+* [Rise of the Revenue Marketer](https://www.amazon.com/Rise-Revenue-Marketer-Debbie-Qaqish/dp/1610054075/) -
+The role of Marketing has dramatically evolved over the last decade. Historically seen exclusively as a cost-center for the business, this shift tasks Marketing with generating revenue. This book highlights these changes and outlines the organizational structure necessary to drive this accountability and growth. 
 
 
 # Videos and Courses
@@ -83,6 +86,7 @@ Seth Godin stresses the importance and benefits of knowing your audience and sta
 - [Paul Graham on Building Companies for Fast Growth ](http://www.inc.com/magazine/201309/issie-lapowsky/how-paul-graham-became-successful.html)
 - [The 30 Best Pieces of Advice for Entrepreneurs in 2013](http://firstround.com/article/30-Best-Pieces)
 - [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)
+- [27 books every startup ought to read by Hiten Shah](https://hitenism.com/startup-books/)
 
 # Engineering:
 
@@ -107,6 +111,8 @@ Seth Godin stresses the importance and benefits of knowing your audience and sta
 - [Guide to SaaS metrics by David Skok](http://www.forentrepreneurs.com/saas-metrics/)
 - [Free Marketing guides by Kissmetrics](http://blog.kissmetrics.com/marketing-guides/)
 - [Elements of a viral launch page by SmashingMagazine](http://www.smashingmagazine.com/2011/09/01/elements-of-a-viral-launch-page/)
+- [Self-Service SaaS: A Beginner’s Guide to Maximizing Growth](https://www.chargebee.com/resources/guides/self-service-saas-revenue-growth/) - There aren’t many resources available that thoroughly outline the basics of managing self-service revenue at a SaaS company, but Chargebee does a nice job of it in this guide. By explaining the basics, providing a framework, including real-world examples from the SaaS space, and linking out to additional resources this asset is a solid place to start!
+
 
 # Task Management & Collaboration:
 
@@ -119,5 +125,6 @@ Seth Godin stresses the importance and benefits of knowing your audience and sta
 - [Buffer](https://buffer.com) - Social Media analytics and Scheduling
 - [BuzzSumo](https://buzzsumo.com) - Find Most Shared Content and Key Influencers
 - [QuickTwit](https://quicktwit.com) - Tools for finding Trends in Topics
+- [Hootsuite](https://hootsuite.com) - Social Media Management Tools
 - [SocialBlade](https://socialblade.com/) - Social Media Statistics
 - [IFTTT](https://ifttt.com/) - Create custom triggers to automate social media workflows
