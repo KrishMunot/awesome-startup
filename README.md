@@ -30,7 +30,7 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Traction: A Startup Guide to Getting Customers](http://www.amazon.com/Traction-Startup-Guide-Getting-Customers-ebook/dp/B00N06Y2DW/)
 - [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?ie=UTF8&qid=1540102964&sr=8-1&keywords=0+to+1) Notes on Startups, or How to Build the Future
 - [Hello, Startup](https://www.hello-startup.net/) - The "Hello, World" tutorial for building a startup
-* [Good to Great: Why Some Companies Make the Leap and Others Don't] (https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996) - Using tough benchmarks, Collins and his research team identified a set of elite companies that made the leap to great results and sustained those results for at least fifteen years. How great? After the leap, the good-to-great companies generated cumulative stock returns that beat the general stock market by an average of seven times in fifteen years, better than twice the results delivered by a composite index of the world's greatest companies, including Coca-Cola, Intel, General Electric, and Merck.  
+* [Good to Great: Why Some Companies Make the Leap and Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996) - Using tough benchmarks, Collins and his research team identified a set of elite companies that made the leap to great results and sustained those results for at least fifteen years. How great? After the leap, the good-to-great companies generated cumulative stock returns that beat the general stock market by an average of seven times in fifteen years, better than twice the results delivered by a composite index of the world's greatest companies, including Coca-Cola, Intel, General Electric, and Merck.  
 * [Tribes: We Need You to Lead Us](https://www.amazon.com/Tribes-We-Need-You-Lead-ebook/dp/B001FA0LAI/) - 
 Seth Godin stresses the importance and benefits of knowing your audience and staying hyper-focused on them to build a loyal following. “With his signature wit and storytelling flair, Godin presents the three steps to building a tribe: the desire to change things, the ability to connect a tribe, and the willingness to lead.
 * [Rise of the Revenue Marketer](https://www.amazon.com/Rise-Revenue-Marketer-Debbie-Qaqish/dp/1610054075/) -
@@ -121,6 +121,9 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [Asana](https://asana.com) - Track your team's work & manage projects
 - [Trello](https://trello.com) - Create and manage kanban boards
 - [Taskade](https://taskade.com) - Collaborative task lists and outlines
+- [Airtable](https://airtable.com) - Build flexible spreadsheets that behave like a database
+- [Jira](https://www.atlassian.com/software/jira) - Issue tickets, keep track of progress and plan your agile projects 
+
 
 # Marketing Tools
 
