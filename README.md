@@ -109,6 +109,8 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [Guide to SaaS metrics by David Skok](http://www.forentrepreneurs.com/saas-metrics/)
 - [Free Marketing guides by Kissmetrics](http://blog.kissmetrics.com/marketing-guides/)
 - [Elements of a viral launch page by SmashingMagazine](http://www.smashingmagazine.com/2011/09/01/elements-of-a-viral-launch-page/)
+- [Self-Service SaaS: A Beginner’s Guide to Maximizing Growth](https://www.chargebee.com/resources/guides/self-service-saas-revenue-growth/) - There aren’t many resources available that thoroughly outline the basics of managing self-service revenue at a SaaS company, but Chargebee does a nice job of it in this guide. By explaining the basics, providing a framework, including real-world examples from the SaaS space, and linking out to additional resources this asset is a solid place to start!
+
 
 # Task Management & Collaboration:
 
