@@ -29,7 +29,6 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Traction: A Startup Guide to Getting Customers](http://www.amazon.com/Traction-Startup-Guide-Getting-Customers-ebook/dp/B00N06Y2DW/)
 - [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?ie=UTF8&qid=1540102964&sr=8-1&keywords=0+to+1) Notes on Startups, or How to Build the Future
 - [Hello, Startup](https://www.hello-startup.net/) - The "Hello, World" tutorial for building a startup
-* [Mindset: Changing The Way You Think To Fulfill Your Potential](https://www.amazon.com/Mindset-Updated-Changing-Fulfil-Potential/dp/147213995X/) - This book explores the difference between approaching situations with a fixed vs. growth mindset. Spoiler: a growth mindset will get you much closer to achieving your goals and Dr. Dweck outlines steps to take to help shift your thinking accordingly.  
 
 
 # Videos and Courses
@@ -82,6 +81,7 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Paul Graham on Building Companies for Fast Growth ](http://www.inc.com/magazine/201309/issie-lapowsky/how-paul-graham-became-successful.html)
 - [The 30 Best Pieces of Advice for Entrepreneurs in 2013](http://firstround.com/article/30-Best-Pieces)
 - [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)
+- [27 books every startup ought to read by Hiten Shah](https://hitenism.com/startup-books/)
 
 # Engineering:
 
@@ -106,6 +106,8 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Guide to SaaS metrics by David Skok](http://www.forentrepreneurs.com/saas-metrics/)
 - [Free Marketing guides by Kissmetrics](http://blog.kissmetrics.com/marketing-guides/)
 - [Elements of a viral launch page by SmashingMagazine](http://www.smashingmagazine.com/2011/09/01/elements-of-a-viral-launch-page/)
+- [Self-Service SaaS: A Beginner’s Guide to Maximizing Growth](https://www.chargebee.com/resources/guides/self-service-saas-revenue-growth/) - There aren’t many resources available that thoroughly outline the basics of managing self-service revenue at a SaaS company, but Chargebee does a nice job of it in this guide. By explaining the basics, providing a framework, including real-world examples from the SaaS space, and linking out to additional resources this asset is a solid place to start!
+
 
 # Task Management & Collaboration:
 
@@ -118,5 +120,6 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Buffer](https://buffer.com) - Social Media analytics and Scheduling
 - [BuzzSumo](https://buzzsumo.com) - Find Most Shared Content and Key Influencers
 - [QuickTwit](https://quicktwit.com) - Tools for finding Trends in Topics
+- [Hootsuite](https://hootsuite.com) - Social Media Management Tools
 - [SocialBlade](https://socialblade.com/) - Social Media Statistics
 - [IFTTT](https://ifttt.com/) - Create custom triggers to automate social media workflows
