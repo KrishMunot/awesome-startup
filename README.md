@@ -37,8 +37,8 @@ A curated list of awesome books, videos, courses and resources about making a st
 Seth Godin stresses the importance and benefits of knowing your audience and staying hyper-focused on them to build a loyal following. “With his signature wit and storytelling flair, Godin presents the three steps to building a tribe: the desire to change things, the ability to connect a tribe, and the willingness to lead.
 * [Rise of the Revenue Marketer](https://www.amazon.com/Rise-Revenue-Marketer-Debbie-Qaqish/dp/1610054075/) -
 The role of Marketing has dramatically evolved over the last decade. Historically seen exclusively as a cost-center for the business, this shift tasks Marketing with generating revenue. This book highlights these changes and outlines the organizational structure necessary to drive this accountability and growth. 
-
-
+* [Built to Last: Successful Habits of Visionary Companies](https://www.amazon.com/Built-Last-Successful-Visionary-Essentials/dp/0060516402) - Built to Last provides a master blueprint for building organizations that will prosper long into the 21st century and beyond.
+* [Change the Culture, Change the Game: The Breakthrough Strategy for Energizing Your Organization and Creating Accountability for Results](https://www.amazon.com/Change-Culture-Game-Breakthrough-Organization/dp/1591845394) - shows how leaders can achieve record-breaking results by quickly and effectively shaping their organizational culture to capitalize on their greatest asset-their people.
 
 # Videos and Courses
 
@@ -60,6 +60,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [Marc Andreessen & Dave McClure: The Future of Startups, VC's, and Technology](https://www.youtube.com/watch?v=pLNQZegq7KA&app=desktop)
 - [Foundation 37 // David Byttow](https://www.youtube.com/watch?feature=player_embedded&v=7PmBk7hgUqg)
 - [How to Start a Startup - IIM A](https://www.youtube.com/channel/UCtiqGX-_f8kA0MZkQ4yPJ5g)
+
 
 # General
 - [The Lean Startup - Eric Ries (book)](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898)
@@ -141,3 +142,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [Hootsuite](https://hootsuite.com) - Social Media Management Tools
 - [SocialBlade](https://socialblade.com/) - Social Media Statistics
 - [IFTTT](https://ifttt.com/) - Create custom triggers to automate social media workflows
+
+# Leadership & People
+- [How to Start a Movement](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=en) - 3 minute video drawing parallels to leadership and the importance of the people that follow the leader.  Critical for a start-up to achieve and maintain alignment
+- [Employee Engagement: The Wonder Drug For Customer Satisfaction](https://www.forbes.com/sites/kevinkruse/2014/01/07/employee-engagement-the-wonder-drug-for-customer-satisfaction/#152c5aeb6d46) - short article showing the high correlation between employee engagement and customer satisfaction. Satisfied customers and happy/engaged employees produce the most amazing start-ups - or any type of company for that matter.
