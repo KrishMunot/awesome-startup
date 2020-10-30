@@ -134,6 +134,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [Taskade](https://taskade.com) - Collaborative task lists and outlines
 - [Airtable](https://airtable.com) - Build flexible spreadsheets that behave like a database
 - [Jira](https://www.atlassian.com/software/jira) - Issue tickets, keep track of progress and plan your agile projects 
+- [Microsoft Teams](https://teams.microsoft.com/) - Business communication platform that offers workspace chat, videoconferencing, file storage and 3rd party app integration
 
 
 # Marketing Tools
