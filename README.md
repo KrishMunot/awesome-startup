@@ -7,6 +7,8 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Videos](#videos-and-courses)
 - [General](#general)
 - [Resources](#resources)
+- [Accelerators](#accelerators)
+- [Finance](#finance)
 - [Reading](#reading)
 - [Engineering](#engineering)
 - [Venture Capital and Raising Money](#venture-capital-and-raising-money)
