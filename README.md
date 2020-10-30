@@ -88,6 +88,14 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [BetaPage](https://betapage.co/)
 - [StartupJohn](https://www.startupjohn.com/)
 
+# Accelerators
+- [Alchemist](https://alchemistaccelerator.com/) - Enterprise sales accelerator
+- [YCombinator](https://www.ycombinator.com/about/) - Seed funding for startups (from the creators of HackerNews)
+
+# Finance
+- [Brex](https://www.brex.com/about/) - Banking for newly-founded tech startups made easy
+- [Revolut Business](https://www.revolut.com/business/business-account) - Control your payments, company cards, expenses and more from one app.
+
 # Reading
 - [Ideas are just a multiplier of execution](http://sivers.org/multiply)
 - [Do things that don't scale by Paul Graham](http://paulgraham.com/ds.html)
