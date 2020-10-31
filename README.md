@@ -27,16 +27,18 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [The Founder's Dilemmas by Noam Wasserman](http://www.amazon.com/The-Founders-Dilemmas-Entrepreneurship-ebook/dp/B007AIXKUM/) - Drawing on a decade of research, Noam Wasserman reveals the common pitfalls founders face and how to avoid them.
 - [Venture Deals by Brad Feld and Jason Mendelson](http://www.amazon.com/Venture-Deals-Smarter-Capitalist-ebook/dp/B00AO2PWOI/)
 - [Venture Capitalists at Work by Tarang Shah and Sheetal Shah](http://www.amazon.com/Venture-Capitalists-Work-Billion-Dollar-ebook/dp/B006C9EM1Q/) - Venture Capitalists at Work: How VCs Identify and Build Billion-Dollar Successes offers unparalleled insights into the funding and management of companies like YouTube, Zappos, Twitter, Starent, Facebook, and Groupon. The venture capitalists profiled—among the best in the business—also reveal how they identify promising markets, products, and entrepreneurs.
-- [Traction: A Startup Guide to Getting Customers](http://www.amazon.com/Traction-Startup-Guide-Getting-Customers-ebook/dp/B00N06Y2DW/)
+- [Traction: A Startup Guide to Getting Customers](https://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer/dp/0241242533)
 - [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?ie=UTF8&qid=1540102964&sr=8-1&keywords=0+to+1) Notes on Startups, or How to Build the Future
 - [Hello, Startup](https://www.hello-startup.net/) - The "Hello, World" tutorial for building a startup
+* [The Balanced Scorecard: Translating Strategy into Action] (https://www.amazon.com/Balanced-Scorecard-Translating-Strategy-Action/dp/0875846513) - The Balanced Scorecard translates a company's vision and strategy into a coherent set of performance measures. The four perspectives of the scorecard--financial measures, customer knowledge, internal business processes, and learning and growth--offer a balance between short-term and long-term objectives, between outcomes desired and performance drivers of those outcomes, and between hard objective measures and softer, more subjective measures. This is a great tool for all companies, but importantly early stage companies, to help them translate data to data execution into actionable and measurable outcomes, across the business.
 * [Good to Great: Why Some Companies Make the Leap and Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996) - Using tough benchmarks, Collins and his research team identified a set of elite companies that made the leap to great results and sustained those results for at least fifteen years. How great? After the leap, the good-to-great companies generated cumulative stock returns that beat the general stock market by an average of seven times in fifteen years, better than twice the results delivered by a composite index of the world's greatest companies, including Coca-Cola, Intel, General Electric, and Merck.  
+* [The Innovator's Solution: Creating and Sustaining Successful Growth] (https://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1422196577) - Helpful to growth stage companies who are moving beyond their initial successful product, provides a great framework for how to invest beyond the core.
 * [Tribes: We Need You to Lead Us](https://www.amazon.com/Tribes-We-Need-You-Lead-ebook/dp/B001FA0LAI/) - 
 Seth Godin stresses the importance and benefits of knowing your audience and staying hyper-focused on them to build a loyal following. “With his signature wit and storytelling flair, Godin presents the three steps to building a tribe: the desire to change things, the ability to connect a tribe, and the willingness to lead.
 * [Rise of the Revenue Marketer](https://www.amazon.com/Rise-Revenue-Marketer-Debbie-Qaqish/dp/1610054075/) -
 The role of Marketing has dramatically evolved over the last decade. Historically seen exclusively as a cost-center for the business, this shift tasks Marketing with generating revenue. This book highlights these changes and outlines the organizational structure necessary to drive this accountability and growth. 
-
-
+* [Built to Last: Successful Habits of Visionary Companies](https://www.amazon.com/Built-Last-Successful-Visionary-Essentials/dp/0060516402) - Built to Last provides a master blueprint for building organizations that will prosper long into the 21st century and beyond.
+* [Change the Culture, Change the Game: The Breakthrough Strategy for Energizing Your Organization and Creating Accountability for Results](https://www.amazon.com/Change-Culture-Game-Breakthrough-Organization/dp/1591845394) - shows how leaders can achieve record-breaking results by quickly and effectively shaping their organizational culture to capitalize on their greatest asset-their people.
 
 # Videos and Courses
 
@@ -54,27 +56,29 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 * [How to Start a Startup](http://startupclass.samaltman.com/)
 * [Y Combinator Universe](http://ycuniverse.com/)
 * [Y Combinator Startup Class](https://courses.platzi.com/classes/startup-class/)
-  - [Authors @Google: Eric Ries "The Lean Startup"](https://www.youtube.com/watch?v=fEvKo90qBns)
+* [Startup courses at Edx](https://www.edx.org/learn/starting-business) - Learn how to start your new business venture with free online entrepreneurship and business development courses from MIT, IIMB and other top schools.
+- [Authors @Google: Eric Ries "The Lean Startup"](https://www.youtube.com/watch?v=fEvKo90qBns)
 - [Marc Andreessen & Dave McClure: The Future of Startups, VC's, and Technology](https://www.youtube.com/watch?v=pLNQZegq7KA&app=desktop)
 - [Foundation 37 // David Byttow](https://www.youtube.com/watch?feature=player_embedded&v=7PmBk7hgUqg)
 - [How to Start a Startup - IIM A](https://www.youtube.com/channel/UCtiqGX-_f8kA0MZkQ4yPJ5g)
+
 
 # General
 - [The Lean Startup - Eric Ries (book)](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898)
 - [Running Lean - Ash Maurya (book)](http://www.amazon.com/Running-Lean-Iterate-Works-Series/dp/1449305172)
 - [The Four Steps to the Epiphany - Steve Blank (book)](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507)
 - [Sam Altman's blog](http://blog.samaltman.com/)
-  - [Startup advice, briefly](http://blog.samaltman.com/startup-advice-briefly)
+- [Startup advice, briefly](http://blog.samaltman.com/startup-advice-briefly)
 - [Paul Graham's essays](http://www.paulgraham.com/articles.html)
-  - [How to get startup ideas](http://www.paulgraham.com/startupideas.html)
-  - [Do thing's that don't scale](http://paulgraham.com/ds.html)
-  - [18 Mistakes that kill startups](http://www.paulgraham.com/startupmistakes.html)
-  - [How to raise money](http://www.paulgraham.com/fr.html)
- - [High Output Management - Andrew S. Grove (book)](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
+- [How to get startup ideas](http://www.paulgraham.com/startupideas.html)
+- [Do thing's that don't scale](http://paulgraham.com/ds.html)
+- [18 Mistakes that kill startups](http://www.paulgraham.com/startupmistakes.html)
+- [How to raise money](http://www.paulgraham.com/fr.html)
+- [High Output Management - Andrew S. Grove (book)](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
 - Three business fables by [Patrick Lencioni](https://en.wikipedia.org/wiki/Patrick_Lencioni) that are powerful tools to be a better leader:
-  - [The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team) - Throughout the story, Lencioni reveals the five dysfunctions which go to the very heart of why teams even the best ones-often struggle. He outlines a powerful model and actionable steps that can be used to overcome these common hurdles and build a cohesive, effective team. 
-  - [The Five Temptations of a CEO: A Leadership Fable by Patrick Lencioni](https://www.goodreads.com/book/show/49146.The_Five_Temptations_of_a_CEO) - Patrick Lencioni delivers a provocative message. CEOs mainly have themselves to blame when things go wrong. If you're a CEO (or a manager for that matter), do you have the courage to face it? Doing so could change your future -- for the better.
-  - [The Four Obsessions of an Extraordinary Executive: The Four Disciplines at the Heart of Making Any Organization World Class by Patrick Lencioni](https://www.goodreads.com/book/show/49172.The_Four_Obsessions_of_an_Extraordinary_Executive)  - In this follow-up to his best-selling book, The Five Temptations of a CEO, Patrick Lencioni's focus is on a leader's crucial role in building a healthy organization--an often overlooked but essential element of business life that is the linchpin of sustained success. 
+- [The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team) - Throughout the story, Lencioni reveals the five dysfunctions which go to the very heart of why teams even the best ones-often struggle. He outlines a powerful model and actionable steps that can be used to overcome these common hurdles and build a cohesive, effective team. 
+- [The Five Temptations of a CEO: A Leadership Fable by Patrick Lencioni](https://www.goodreads.com/book/show/49146.The_Five_Temptations_of_a_CEO) - Patrick Lencioni delivers a provocative message. CEOs mainly have themselves to blame when things go wrong. If you're a CEO (or a manager for that matter), do you have the courage to face it? Doing so could change your future -- for the better.
+- [The Four Obsessions of an Extraordinary Executive: The Four Disciplines at the Heart of Making Any Organization World Class by Patrick Lencioni](https://www.goodreads.com/book/show/49172.The_Four_Obsessions_of_an_Extraordinary_Executive)  - In this follow-up to his best-selling book, The Five Temptations of a CEO, Patrick Lencioni's focus is on a leader's crucial role in building a healthy organization--an often overlooked but essential element of business life that is the linchpin of sustained success. 
 
 # Resources
 - [Product Hunt](http://www.producthunt.com/)
@@ -126,6 +130,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 
 - [Asana](https://asana.com) - Track your team's work & manage projects
 - [Trello](https://trello.com) - Create and manage kanban boards
+- [Todoist](https://todoist.com) - The to do list to organize work & life
 - [Monday.com](https://monday.com/) - One platform, better teamwork
 - [Taskade](https://taskade.com) - Collaborative task lists and outlines
 - [Airtable](https://airtable.com) - Build flexible spreadsheets that behave like a database
@@ -140,3 +145,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [Hootsuite](https://hootsuite.com) - Social Media Management Tools
 - [SocialBlade](https://socialblade.com/) - Social Media Statistics
 - [IFTTT](https://ifttt.com/) - Create custom triggers to automate social media workflows
+
+# Leadership & People
+- [How to Start a Movement](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=en) - 3 minute video drawing parallels to leadership and the importance of the people that follow the leader.  Critical for a start-up to achieve and maintain alignment
+- [Employee Engagement: The Wonder Drug For Customer Satisfaction](https://www.forbes.com/sites/kevinkruse/2014/01/07/employee-engagement-the-wonder-drug-for-customer-satisfaction/#152c5aeb6d46) - short article showing the high correlation between employee engagement and customer satisfaction. Satisfied customers and happy/engaged employees produce the most amazing start-ups - or any type of company for that matter.
