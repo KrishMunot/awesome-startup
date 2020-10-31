@@ -7,6 +7,8 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Videos](#videos-and-courses)
 - [General](#general)
 - [Resources](#resources)
+- [Accelerators](#accelerators)
+- [Finance](#finance)
 - [Reading](#reading)
 - [Engineering](#engineering)
 - [Venture Capital and Raising Money](#venture-capital-and-raising-money)
@@ -88,6 +90,14 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [BetaPage](https://betapage.co/)
 - [StartupJohn](https://www.startupjohn.com/)
 
+# Accelerators
+- [Alchemist](https://alchemistaccelerator.com/) - Enterprise sales accelerator
+- [YCombinator](https://www.ycombinator.com/about/) - Seed funding for startups (from the creators of HackerNews)
+
+# Finance
+- [Brex](https://www.brex.com/about/) - Banking for newly-founded tech startups made easy
+- [Revolut Business](https://www.revolut.com/business/business-account) - Control your payments, company cards, expenses and more from one app.
+
 # Reading
 - [Ideas are just a multiplier of execution](http://sivers.org/multiply)
 - [Do things that don't scale by Paul Graham](http://paulgraham.com/ds.html)
@@ -135,6 +145,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [Taskade](https://taskade.com) - Collaborative task lists and outlines
 - [Airtable](https://airtable.com) - Build flexible spreadsheets that behave like a database
 - [Jira](https://www.atlassian.com/software/jira) - Issue tickets, keep track of progress and plan your agile projects 
+- [Microsoft Teams](https://teams.microsoft.com/) - Business communication platform that offers workspace chat, videoconferencing, file storage and 3rd party app integration
 
 
 # Marketing Tools
