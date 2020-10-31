@@ -131,6 +131,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [Asana](https://asana.com) - Track your team's work & manage projects
 - [Trello](https://trello.com) - Create and manage kanban boards
 - [Todoist](https://todoist.com) - The to do list to organize work & life
+- [Monday.com](https://monday.com/) - One platform, better teamwork
 - [Taskade](https://taskade.com) - Collaborative task lists and outlines
 - [Airtable](https://airtable.com) - Build flexible spreadsheets that behave like a database
 - [Jira](https://www.atlassian.com/software/jira) - Issue tickets, keep track of progress and plan your agile projects 
