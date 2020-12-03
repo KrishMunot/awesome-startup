@@ -147,6 +147,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [Jira](https://www.atlassian.com/software/jira) - Issue tickets, keep track of progress and plan your agile projects 
 - [Microsoft Teams](https://teams.microsoft.com/) - Business communication platform that offers workspace chat, videoconferencing, file storage and 3rd party app integration
 - [Wire](https://wire.com) - The most secure collaboration platform
+- [Feedbear](https://www.feedbear.com/) - Prioritize feature requests to build your roadmap.
 
 
 # Marketing Tools
@@ -157,6 +158,10 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [Hootsuite](https://hootsuite.com) - Social Media Management Tools
 - [SocialBlade](https://socialblade.com/) - Social Media Statistics
 - [IFTTT](https://ifttt.com/) - Create custom triggers to automate social media workflows
+- [Zapier](https://zapier.com/) -  Alternative to ifttt : triggers based automated workflows
+- [Phantombuster](https://phantombuster.com/) - Automate social media via webscraping
+- [QApop](https://www.qapop.com/) - Find relevant Quora questions to answer 
+- [Smartlook](https://www.smartlook.com/)- Understand how people interact with your website and improve conversion
 
 # Leadership & People
 - [How to Start a Movement](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=en) - 3 minute video drawing parallels to leadership and the importance of the people that follow the leader.  Critical for a start-up to achieve and maintain alignment
