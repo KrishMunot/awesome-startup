@@ -123,6 +123,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [Fundraising Mistakes Founders Make](http://blog.samaltman.com/fundraising-mistakes-founder-make)
 - [Pitch Decks for VCs - You’re doing it wrong.](https://medium.com/boost-vc/5-rules-for-the-pitch-deck-d7c7bbc3185d)
 - [Raising Capital: This is the Advice We Give Our Founders](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders/)
+- [Free Startup Pitch Deck Templates for Figma](https://www.figmafinder.com/figma-pitch-deck)
 
 # Marketing Sales & Metrics:
 
