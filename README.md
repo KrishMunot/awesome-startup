@@ -149,6 +149,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [Microsoft Teams](https://teams.microsoft.com/) - Business communication platform that offers workspace chat, videoconferencing, file storage and 3rd party app integration
 - [Wire](https://wire.com) - The most secure collaboration platform
 - [Feedbear](https://www.feedbear.com/) - Prioritize feature requests to build your roadmap.
+- [Notion](https://www.notion.so/) - All-in-one workspace for notes, tasks, wikis, and databases.
 
 
 # Marketing Tools
