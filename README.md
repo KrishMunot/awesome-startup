@@ -112,7 +112,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 
 # Engineering:
 
-- [The one cost engineers and product managers don't consider](http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider)
+- [The one cost engineers and product managers don't consider](https://web.archive.org/web/20200728004935if_/https://firstround.com/review/The-one-cost-engineers-and-product-managers-dont-consider/)
 
 # Venture Capital and Raising Money:
 
