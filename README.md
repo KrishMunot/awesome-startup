@@ -46,7 +46,6 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 
 - [How to start a startup (course)](https://startupclass.co/course/how-to-start-a-startup)
 - [Steve Jobs' Vision of the World (video)](https://www.youtube.com/watch?feature=player_embedded&v=UvEiSa6_EPA)
-- [This startup founder filmed her struggles (video)](https://giveit100.com/@100/9b924t)
 * [Startup Talks](http://startuptalks.tv/)
 * [Startup Movies](http://startupmovies.be-genius.com/)
 - [The Lean Launchpad by Steve Blank (Udacity)](https://www.udacity.com/course/ep245) - Learn the key tools and steps to build a successful startup (or at least reduce the risk of failure). An introduction to the basics of Steve Blank's famous Customer Development process, where entrepreneurs "get out of the building" to gather massive amounts of customer and marketplace feedback, and then use that feedback to continuously iterate and evolve their startup business models, improving the chances of success at every step.
@@ -114,13 +113,12 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 
 - [The one cost engineers and product managers don't consider](http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider)
 - Software Engineering and Development is expensive and delicate. Use [Spurwing](https://www.spurwing.io/) instead of reinventing the wheel when it comes to time management solutions. Spurwing is like Stripe but for appointment scheduling. This API makes it easy to add robust appointment booking and calendaring features to any application. The Spurwing API is a secure and feature-rich, accessible product for building custom solutions, product integrations, scheduling and calendaring widgets. You are only limited by your own imagination.
-   Learn more [here](https://github.com/Spurwing/Appointment-Scheduling-API) Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
+Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 
 # Venture Capital and Raising Money:
 
 - [Black Swan farming by Paul Graham](http://paulgraham.com/swan.html)
 - [How to convince investors by Paul Graham](http://paulgraham.com/convince.html)
-- [How to present to investors by Aaref Hilaly](http://www.sequoiacap.com/grove/posts/bzxr-how-to-present-to-investors)
 - [Breaking Down a Typical VC/Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process/)
 - [Fundraising Mistakes Founders Make](http://blog.samaltman.com/fundraising-mistakes-founder-make)
 - [Pitch Decks for VCs - You’re doing it wrong.](https://medium.com/boost-vc/5-rules-for-the-pitch-deck-d7c7bbc3185d)
@@ -131,7 +129,6 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 
 - [The Pmarca Guide to Startups, part 4: The only thing that matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
 - [Startup Metrics for Pirates by Dave McClure](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
-- [Traction Mistakes by Gabriel Weinberg](http://www.gabrielweinberg.com/blog/2012/07/traction-mistakes.html)
 - [How New User Acquisition Channels Drive Change](http://brianbalfour.com/post/58798523560/new-user-acquisition-channels)
 - [Guide to SaaS metrics by David Skok](http://www.forentrepreneurs.com/saas-metrics/)
 - [Free Marketing guides by Kissmetrics](http://blog.kissmetrics.com/marketing-guides/)
@@ -152,6 +149,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [Wire](https://wire.com) - The most secure collaboration platform
 - [Feedbear](https://www.feedbear.com/) - Prioritize feature requests to build your roadmap.
 - [Notion](https://www.notion.so/) - All-in-one workspace for notes, tasks, wikis, and databases.
+- [Logit.io](https://logit.io/) - Collaborative visualisation platform with no limits on the number of users or teams.
 
 
 # Marketing Tools
