@@ -46,6 +46,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 
 - [How to start a startup (course)](https://startupclass.co/course/how-to-start-a-startup)
 - [Steve Jobs' Vision of the World (video)](https://www.youtube.com/watch?feature=player_embedded&v=UvEiSa6_EPA)
+
 * [Startup Talks](http://startuptalks.tv/)
 * [Startup Movies](http://startupmovies.be-genius.com/)
 - [The Lean Launchpad by Steve Blank (Udacity)](https://www.udacity.com/course/ep245) - Learn the key tools and steps to build a successful startup (or at least reduce the risk of failure). An introduction to the basics of Steve Blank's famous Customer Development process, where entrepreneurs "get out of the building" to gather massive amounts of customer and marketplace feedback, and then use that feedback to continuously iterate and evolve their startup business models, improving the chances of success at every step.
