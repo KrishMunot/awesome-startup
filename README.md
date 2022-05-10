@@ -58,6 +58,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 * [How to Start a Startup](http://startupclass.samaltman.com/)
 * [Y Combinator Universe](http://ycuniverse.com/)
 * [Y Combinator Startup Class](https://courses.platzi.com/classes/startup-class/)
+- [Y Combinator's startup School](https://www.startupschool.org/)
 * [Startup courses at Edx](https://www.edx.org/learn/starting-business) - Learn how to start your new business venture with free online entrepreneurship and business development courses from MIT, IIMB and other top schools.
 - [Authors @Google: Eric Ries "The Lean Startup"](https://www.youtube.com/watch?v=fEvKo90qBns)
 - [Marc Andreessen & Dave McClure: The Future of Startups, VC's, and Technology](https://www.youtube.com/watch?v=pLNQZegq7KA&app=desktop)
@@ -93,10 +94,13 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 # Accelerators
 - [Alchemist](https://alchemistaccelerator.com/) - Enterprise sales accelerator
 - [YCombinator](https://www.ycombinator.com/about/) - Seed funding for startups (from the creators of HackerNews)
+- [500 Startups](https://500.co/) - One of the top accelerators with a global presence
+- [Techstars](https://www.techstars.com/) - One of the world's leading accelerators offering a range of programs
 
 # Finance
 - [Brex](https://www.brex.com/about/) - Banking for newly-founded tech startups made easy
-- [Revolut Business](https://www.revolut.com/business/business-account) - Control your payments, company cards, expenses and more from one app.
+- [Revolut Business](https://www.revolut.com/business/business-account) - Control your payments, company cards, expenses and more from one app
+- [Ramp](https://ramp.com/) - Cards, bills, payments, approvals, and more for startups
 
 # Reading
 - [Ideas are just a multiplier of execution](http://sivers.org/multiply)
@@ -112,6 +116,8 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 
 # Engineering:
 
+- [Argonaut](https://argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments. Free forever startup tier allows unlimited apps and deployments for 5 environments and 2 users.
+- [Datadog](https://www.datadoghq.com/) - Modern app monitoring and security for applications
 - [The one cost engineers and product managers don't consider](https://web.archive.org/web/20200728004935if_/https://firstround.com/review/The-one-cost-engineers-and-product-managers-dont-consider/)
 - Software Engineering and Development is expensive and delicate. Use [Spurwing](https://www.spurwing.io/) instead of reinventing the wheel when it comes to time management solutions. Spurwing is like Stripe but for appointment scheduling. This API makes it easy to add robust appointment booking and calendaring features to any application. The Spurwing API is a secure and feature-rich, accessible product for building custom solutions, product integrations, scheduling and calendaring widgets. You are only limited by your own imagination.
 Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
