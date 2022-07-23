@@ -13,6 +13,10 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Engineering](#engineering)
 - [Venture Capital and Raising Money](#venture-capital-and-raising-money)
 - [Marketing, Sales & metrics](#marketing-sales--metrics)
+- [Task Management & Collaboration](#task-management-&-collaboration)
+- [Marketing Tools](#marketing-tools)
+- [Coworking & Virtual Offices](#coworking-&-virtual-offices)
+- [Leadership & People](#leadership-&-people)
 
 
 # Books
@@ -114,7 +118,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)
 - [27 books every startup ought to read by Hiten Shah](https://hitenism.com/startup-books/)
 
-# Engineering:
+# Engineering
 
 - [Argonaut](https://argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments. Free forever startup tier allows unlimited apps and deployments for 5 environments and 2 users.
 - [Datadog](https://www.datadoghq.com/) - Modern app monitoring and security for applications
@@ -123,7 +127,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 
 
-# Venture Capital and Raising Money:
+# Venture Capital and Raising Money
 
 - [Black Swan farming by Paul Graham](http://paulgraham.com/swan.html)
 - [How to convince investors by Paul Graham](http://paulgraham.com/convince.html)
@@ -133,7 +137,7 @@ Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 - [Raising Capital: This is the Advice We Give Our Founders](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders/)
 - [Free Startup Pitch Deck Templates for Figma](https://www.figmafinder.com/figma-pitch-deck)
 
-# Marketing Sales & Metrics:
+# Marketing Sales & Metrics
 
 - [The Pmarca Guide to Startups, part 4: The only thing that matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
 - [Startup Metrics for Pirates by Dave McClure](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
@@ -144,7 +148,7 @@ Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 - [Self-Service SaaS: A Beginner’s Guide to Maximizing Growth](https://www.chargebee.com/resources/guides/self-service-saas-revenue-growth/) - There aren’t many resources available that thoroughly outline the basics of managing self-service revenue at a SaaS company, but Chargebee does a nice job of it in this guide. By explaining the basics, providing a framework, including real-world examples from the SaaS space, and linking out to additional resources this asset is a solid place to start!
 
 
-# Task Management & Collaboration:
+# Task Management & Collaboration
 
 - [Asana](https://asana.com) - Track your team's work & manage projects
 - [Trello](https://trello.com) - Create and manage kanban boards
@@ -172,6 +176,12 @@ Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 - [Phantombuster](https://phantombuster.com/) - Automate social media via webscraping
 - [QApop](https://www.qapop.com/) - Find relevant Quora questions to answer 
 - [Smartlook](https://www.smartlook.com/)- Understand how people interact with your website and improve conversion
+
+# Coworking & Virtual Offices
+- [WeWork](https://wework.com)
+- [Regus](https://regus.com)
+- [Staples Studio](https://staples.com/studio)
+- [Canada Virtual Office](https://canadavirtualoffice.com)
 
 # Leadership & People
 - [How to Start a Movement](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=en) - 3 minute video drawing parallels to leadership and the importance of the people that follow the leader.  Critical for a start-up to achieve and maintain alignment
