@@ -13,10 +13,10 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Engineering](#engineering)
 - [Venture Capital and Raising Money](#venture-capital-and-raising-money)
 - [Marketing, Sales & metrics](#marketing-sales--metrics)
-- [Task Management & Collaboration](#task-management-&-collaboration)
+- [Task Management & Collaboration](#task-management--collaboration)
 - [Marketing Tools](#marketing-tools)
-- [Coworking & Virtual Offices](#coworking-&-virtual-offices)
-- [Leadership & People](#leadership-&-people)
+- [Coworking & Virtual Offices](#coworking--virtual-offices)
+- [Leadership & People](#leadership--people)
 
 
 # Books
