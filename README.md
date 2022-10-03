@@ -172,6 +172,7 @@ Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 - [Phantombuster](https://phantombuster.com/) - Automate social media via webscraping
 - [QApop](https://www.qapop.com/) - Find relevant Quora questions to answer 
 - [Smartlook](https://www.smartlook.com/)- Understand how people interact with your website and improve conversion
+- [SocialDog](https://social-dog.net/) - All-in-one Twitter marketing tool.
 
 # Leadership & People
 - [How to Start a Movement](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=en) - 3 minute video drawing parallels to leadership and the importance of the people that follow the leader.  Critical for a start-up to achieve and maintain alignment
