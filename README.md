@@ -45,7 +45,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 # Videos and Courses
 
 - [How to start a startup (course)](https://startupclass.co/course/how-to-start-a-startup)
-- [Steve Jobs' Vision of the World (video)](https://www.youtube.com/watch?feature=player_embedded&v=UvEiSa6_EPA)
+- [Steve Jobs' Vision of the World (video)](https://www.youtube.com/watch?v=Tuw8hxrFBH8)
 
 * [Startup Talks](http://startuptalks.tv/)
 * [Startup Movies](http://startupmovies.be-genius.com/)
