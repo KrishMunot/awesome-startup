@@ -13,6 +13,10 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Engineering](#engineering)
 - [Venture Capital and Raising Money](#venture-capital-and-raising-money)
 - [Marketing, Sales & metrics](#marketing-sales--metrics)
+- [Task Management & Collaboration](#task-management--collaboration)
+- [Marketing Tools](#marketing-tools)
+- [Coworking & Virtual Offices](#coworking--virtual-offices)
+- [Leadership & People](#leadership--people)
 
 
 # Books
@@ -58,6 +62,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 * [How to Start a Startup](http://startupclass.samaltman.com/)
 * [Y Combinator Universe](http://ycuniverse.com/)
 * [Y Combinator Startup Class](https://courses.platzi.com/classes/startup-class/)
+- [Y Combinator's startup School](https://www.startupschool.org/)
 * [Startup courses at Edx](https://www.edx.org/learn/starting-business) - Learn how to start your new business venture with free online entrepreneurship and business development courses from MIT, IIMB and other top schools.
 - [Authors @Google: Eric Ries "The Lean Startup"](https://www.youtube.com/watch?v=fEvKo90qBns)
 - [Marc Andreessen & Dave McClure: The Future of Startups, VC's, and Technology](https://www.youtube.com/watch?v=pLNQZegq7KA&app=desktop)
@@ -93,10 +98,13 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 # Accelerators
 - [Alchemist](https://alchemistaccelerator.com/) - Enterprise sales accelerator
 - [YCombinator](https://www.ycombinator.com/about/) - Seed funding for startups (from the creators of HackerNews)
+- [500 Startups](https://500.co/) - One of the top accelerators with a global presence
+- [Techstars](https://www.techstars.com/) - One of the world's leading accelerators offering a range of programs
 
 # Finance
 - [Brex](https://www.brex.com/about/) - Banking for newly-founded tech startups made easy
-- [Revolut Business](https://www.revolut.com/business/business-account) - Control your payments, company cards, expenses and more from one app.
+- [Revolut Business](https://www.revolut.com/business/business-account) - Control your payments, company cards, expenses and more from one app
+- [Ramp](https://ramp.com/) - Cards, bills, payments, approvals, and more for startups
 
 # Reading
 - [Ideas are just a multiplier of execution](http://sivers.org/multiply)
@@ -110,28 +118,29 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)
 - [27 books every startup ought to read by Hiten Shah](https://hitenism.com/startup-books/)
 
-# Engineering:
+# Engineering
 
-- [The one cost engineers and product managers don't consider](http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider)
+- [Argonaut](https://argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments. Free forever startup tier allows unlimited apps and deployments for 5 environments and 2 users.
+- [Datadog](https://www.datadoghq.com/) - Modern app monitoring and security for applications
+- [The one cost engineers and product managers don't consider](https://web.archive.org/web/20200728004935if_/https://firstround.com/review/The-one-cost-engineers-and-product-managers-dont-consider/)
 - Software Engineering and Development is expensive and delicate. Use [Spurwing](https://www.spurwing.io/) instead of reinventing the wheel when it comes to time management solutions. Spurwing is like Stripe but for appointment scheduling. This API makes it easy to add robust appointment booking and calendaring features to any application. The Spurwing API is a secure and feature-rich, accessible product for building custom solutions, product integrations, scheduling and calendaring widgets. You are only limited by your own imagination.
-   Learn more [here](https://github.com/Spurwing/Appointment-Scheduling-API) Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
+Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 
-# Venture Capital and Raising Money:
+
+# Venture Capital and Raising Money
 
 - [Black Swan farming by Paul Graham](http://paulgraham.com/swan.html)
 - [How to convince investors by Paul Graham](http://paulgraham.com/convince.html)
-- [How to present to investors by Aaref Hilaly](http://www.sequoiacap.com/grove/posts/bzxr-how-to-present-to-investors)
 - [Breaking Down a Typical VC/Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process/)
 - [Fundraising Mistakes Founders Make](http://blog.samaltman.com/fundraising-mistakes-founder-make)
 - [Pitch Decks for VCs - You’re doing it wrong.](https://medium.com/boost-vc/5-rules-for-the-pitch-deck-d7c7bbc3185d)
 - [Raising Capital: This is the Advice We Give Our Founders](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders/)
 - [Free Startup Pitch Deck Templates for Figma](https://www.figmafinder.com/figma-pitch-deck)
 
-# Marketing Sales & Metrics:
+# Marketing Sales & Metrics
 
 - [The Pmarca Guide to Startups, part 4: The only thing that matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
 - [Startup Metrics for Pirates by Dave McClure](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
-- [Traction Mistakes by Gabriel Weinberg](http://www.gabrielweinberg.com/blog/2012/07/traction-mistakes.html)
 - [How New User Acquisition Channels Drive Change](http://brianbalfour.com/post/58798523560/new-user-acquisition-channels)
 - [Guide to SaaS metrics by David Skok](http://www.forentrepreneurs.com/saas-metrics/)
 - [Free Marketing guides by Kissmetrics](http://blog.kissmetrics.com/marketing-guides/)
@@ -139,7 +148,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [Self-Service SaaS: A Beginner’s Guide to Maximizing Growth](https://www.chargebee.com/resources/guides/self-service-saas-revenue-growth/) - There aren’t many resources available that thoroughly outline the basics of managing self-service revenue at a SaaS company, but Chargebee does a nice job of it in this guide. By explaining the basics, providing a framework, including real-world examples from the SaaS space, and linking out to additional resources this asset is a solid place to start!
 
 
-# Task Management & Collaboration:
+# Task Management & Collaboration
 
 - [Asana](https://asana.com) - Track your team's work & manage projects
 - [Trello](https://trello.com) - Create and manage kanban boards
@@ -152,6 +161,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [Wire](https://wire.com) - The most secure collaboration platform
 - [Feedbear](https://www.feedbear.com/) - Prioritize feature requests to build your roadmap.
 - [Notion](https://www.notion.so/) - All-in-one workspace for notes, tasks, wikis, and databases.
+- [Logit.io](https://logit.io/) - Collaborative visualisation platform with no limits on the number of users or teams.
 
 
 # Marketing Tools
@@ -166,6 +176,13 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [Phantombuster](https://phantombuster.com/) - Automate social media via webscraping
 - [QApop](https://www.qapop.com/) - Find relevant Quora questions to answer 
 - [Smartlook](https://www.smartlook.com/)- Understand how people interact with your website and improve conversion
+- [SocialDog](https://social-dog.net/) - All-in-one Twitter marketing tool.
+
+# Coworking & Virtual Offices
+- [WeWork](https://wework.com)
+- [Regus](https://regus.com)
+- [Staples Studio](https://staples.com/studio)
+- [Canada Virtual Office](https://canadavirtualoffice.com)
 
 # Leadership & People
 - [How to Start a Movement](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=en) - 3 minute video drawing parallels to leadership and the importance of the people that follow the leader.  Critical for a start-up to achieve and maintain alignment
