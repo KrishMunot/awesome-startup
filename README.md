@@ -46,6 +46,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 * [Built to Last: Successful Habits of Visionary Companies](https://www.amazon.com/Built-Last-Successful-Visionary-Essentials/dp/0060516402) - Built to Last provides a master blueprint for building organizations that will prosper long into the 21st century and beyond.
 * [Change the Culture, Change the Game: The Breakthrough Strategy for Energizing Your Organization and Creating Accountability for Results](https://www.amazon.com/Change-Culture-Game-Breakthrough-Organization/dp/1591845394) - shows how leaders can achieve record-breaking results by quickly and effectively shaping their organizational culture to capitalize on their greatest asset-their people.
 * [Think Like a Founder](https://www.manning.com/books/think-like-a-founder) - Discover the good, the bad, and the ugly of succeeding with a tech startup from nine-time company founder Jothy Rosenberg.
+* [Think Like a CTO](https://www.manning.com/books/think-like-a-cto) - A book that shares the experience and advice of veteran CTOs and industry experts for handling IT crises, leading tech teams, and creating an inspiring vision for your company.
 
 # Videos and Courses
 
