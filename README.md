@@ -121,6 +121,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 # Engineering
 
 - [Argonaut](https://argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments. Free forever startup tier allows unlimited apps and deployments for 5 environments and 2 users.
+- [Cloud 66](https://help.cloud66.com/) - Cloud 66 provides you with everything you need to build, deploy, and grow your applications on any cloud without the hassle of dealing with the 'server stuff.' The Free Plan is available. 
 - [Datadog](https://www.datadoghq.com/) - Modern app monitoring and security for applications
 - [The one cost engineers and product managers don't consider](https://web.archive.org/web/20200728004935if_/https://firstround.com/review/The-one-cost-engineers-and-product-managers-dont-consider/)
 - Software Engineering and Development is expensive and delicate. Use [Spurwing](https://www.spurwing.io/) instead of reinventing the wheel when it comes to time management solutions. Spurwing is like Stripe but for appointment scheduling. This API makes it easy to add robust appointment booking and calendaring features to any application. The Spurwing API is a secure and feature-rich, accessible product for building custom solutions, product integrations, scheduling and calendaring widgets. You are only limited by your own imagination.
