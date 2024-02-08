@@ -181,6 +181,7 @@ Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 # Coworking & Virtual Offices
 - [WeWork](https://wework.com)
 - [Regus](https://regus.com)
+- [Nectar Co-Working Offices](https://www.nectaroffices.com/)
 - [Staples Studio](https://staples.com/studio)
 - [Canada Virtual Office](https://canadavirtualoffice.com)
 
