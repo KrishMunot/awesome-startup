@@ -23,8 +23,7 @@ A curated list of awesome books, videos, courses and resources about making a st
 * [Quotes / Lessons / Videos for Entrepreneurs and Startups](http://www.blockshelf.com/)
 * [For Entrepreneurs](http://powerbooks.strikingly.com/)
 * [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?ie=UTF8&qid=1540102964&sr=8-1&keywords=0+to+1) Notes on Startups, or How to Build the Future 
-* [Startup Notes](http://startupnotes.org/#page/1)
-* [Hooked: How to Build Habit-Forming Products](http://amzn.com/1591847788)
+* [Startup Notes](http://startupnotes.org/#page/1) 
 - [The Lean Startup by Eric Ries](http://www.amazon.com/Lean-Startup-Innovation-Successful-ebook/dp/B004J4XGN6/)
 - [Business Model Generation by Alexander Osterwalder](http://www.amazon.com/Business-Model-Generation-Visionaries-ebook/dp/B00BD6RFFS/)
 - [The Startup Owner's Manual by Steve Blank](http://www.amazon.com/Startup-Owners-Manual-Step--ebook/dp/B009UMTMKS/) - The Startup Owner's Manual lays out the best practices, lessons and tips that have swept the startup world, offering a wealth of proven advice and information for entrepreneurs of all stripes.
@@ -48,7 +47,6 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 
 # Videos and Courses
 
-- [How to start a startup (course)](https://startupclass.co/course/how-to-start-a-startup)
 - [Steve Jobs' Vision of the World (video)](https://www.youtube.com/watch?v=Tuw8hxrFBH8)
 
 * [Startup Talks](http://startuptalks.tv/)
