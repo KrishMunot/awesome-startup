@@ -96,6 +96,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [AngelList](https://angel.co/)
 - [BetaPage](https://betapage.co/)
 - [StartupJohn](https://www.startupjohn.com/)
+- [CloudCredits](https://www.cloudcredits.io/) - Open source collection of cloud/SaaS deals to help startups save money.
 
 # Accelerators
 - [Alchemist](https://alchemistaccelerator.com/) - Enterprise sales accelerator
