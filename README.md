@@ -185,6 +185,7 @@ Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 - [Regus](https://regus.com)
 - [Staples Studio](https://staples.com/studio)
 - [Canada Virtual Office](https://canadavirtualoffice.com)
+- [Study Near Me](https://studynearme.com) - Find laptop-friendly cafes and workspaces for startup teams across the US
 
 # Leadership & People
 - [How to Start a Movement](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=en) - 3 minute video drawing parallels to leadership and the importance of the people that follow the leader.  Critical for a start-up to achieve and maintain alignment
