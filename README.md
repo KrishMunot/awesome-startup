@@ -164,6 +164,7 @@ Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 - [Feedbear](https://www.feedbear.com/) - Prioritize feature requests to build your roadmap.
 - [Notion](https://www.notion.so/) - All-in-one workspace for notes, tasks, wikis, and databases.
 - [Logit.io](https://logit.io/) - Collaborative visualisation platform with no limits on the number of users or teams.
+- [Tenzu](https://tenzu.net/) - Lightweight project management tool for agile teams.
 
 
 # Marketing Tools
