@@ -96,6 +96,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [AngelList](https://angel.co/)
 - [BetaPage](https://betapage.co/)
 - [StartupJohn](https://www.startupjohn.com/)
+- [VisaCanvas](https://visacanvas.com/) - Free AI-powered EB1A/NIW immigration eligibility assessment for founders and professionals
 
 # Accelerators
 - [Alchemist](https://alchemistaccelerator.com/) - Enterprise sales accelerator
