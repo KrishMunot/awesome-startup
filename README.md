@@ -52,6 +52,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 
 - [How to start a startup (course)](https://startupclass.co/course/how-to-start-a-startup)
 - [Steve Jobs' Vision of the World (video)](https://www.youtube.com/watch?v=Tuw8hxrFBH8)
+- [OpenClaw: AI Automation for Entrepreneurs](https://openclawapp.netlify.app) - Learn to automate your business with AI (save 15-20 hours/week)
 
 * [Startup Talks](http://startuptalks.tv/)
 * [Startup Movies](http://startupmovies.be-genius.com/)
