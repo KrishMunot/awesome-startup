@@ -179,6 +179,7 @@ Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 - [QApop](https://www.qapop.com/) - Find relevant Quora questions to answer 
 - [Smartlook](https://www.smartlook.com/)- Understand how people interact with your website and improve conversion
 - [SocialDog](https://social-dog.net/) - All-in-one Twitter marketing tool.
+- [PageGuard](https://pageguard.org) - Free website health scanner — checks SEO, accessibility (WCAG/ADA), performance, and best practices in one scan. Helps startups ensure their website is healthy and legally compliant.
 
 # Coworking & Virtual Offices
 - [WeWork](https://wework.com)
