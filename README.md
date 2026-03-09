@@ -179,6 +179,7 @@ Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 - [QApop](https://www.qapop.com/) - Find relevant Quora questions to answer 
 - [Smartlook](https://www.smartlook.com/)- Understand how people interact with your website and improve conversion
 - [SocialDog](https://social-dog.net/) - All-in-one Twitter marketing tool.
+- [GEOScore](https://geoscoreai.com) - Free AI search visibility scanner checking 11 GEO signals including robots.txt, llms.txt, structured data, and citation readiness for AI search engines.
 
 # Coworking & Virtual Offices
 - [WeWork](https://wework.com)
