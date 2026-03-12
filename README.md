@@ -160,6 +160,7 @@ Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 - [Airtable](https://airtable.com) - Build flexible spreadsheets that behave like a database
 - [Jira](https://www.atlassian.com/software/jira) - Issue tickets, keep track of progress and plan your agile projects 
 - [Microsoft Teams](https://teams.microsoft.com/) - Business communication platform that offers workspace chat, videoconferencing, file storage and 3rd party app integration
+- [HeyRobyn](https://heyrobyn.ai) - Native Mac unified inbox for email, Slack, and GitHub in one window
 - [Wire](https://wire.com) - The most secure collaboration platform
 - [Feedbear](https://www.feedbear.com/) - Prioritize feature requests to build your roadmap.
 - [Notion](https://www.notion.so/) - All-in-one workspace for notes, tasks, wikis, and databases.
