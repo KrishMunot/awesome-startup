@@ -178,6 +178,7 @@ Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 - [Phantombuster](https://phantombuster.com/) - Automate social media via webscraping
 - [QApop](https://www.qapop.com/) - Find relevant Quora questions to answer 
 - [Smartlook](https://www.smartlook.com/)- Understand how people interact with your website and improve conversion
+- [SocialBu](https://socialbu.com) - AI-powered social media management for scheduling, publishing, and automating across X, Instagram, LinkedIn, Facebook, TikTok, and more
 - [SocialDog](https://social-dog.net/) - All-in-one Twitter marketing tool.
 
 # Coworking & Virtual Offices
