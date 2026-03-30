@@ -176,6 +176,7 @@ Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 - [IFTTT](https://ifttt.com/) - Create custom triggers to automate social media workflows
 - [Zapier](https://zapier.com/) -  Alternative to ifttt : triggers based automated workflows
 - [Phantombuster](https://phantombuster.com/) - Automate social media via webscraping
+- [EnrichAnything](https://www.enrichanything.com/) - Build source-backed lead lists and market scans from public signals, with public API docs and lightweight SDK repos for developers.
 - [QApop](https://www.qapop.com/) - Find relevant Quora questions to answer 
 - [Smartlook](https://www.smartlook.com/)- Understand how people interact with your website and improve conversion
 - [SocialDog](https://social-dog.net/) - All-in-one Twitter marketing tool.
