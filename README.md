@@ -171,6 +171,7 @@ Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 - [Buffer](https://buffer.com) - Social Media analytics and Scheduling
 - [BuzzSumo](https://buzzsumo.com) - Find Most Shared Content and Key Influencers
 - [QuickTwit](https://quicktwit.com) - Tools for finding Trends in Topics
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Discover long-tail product submission sites from public alternatives pages like SaaSHub.
 - [Hootsuite](https://hootsuite.com) - Social Media Management Tools
 - [SocialBlade](https://socialblade.com/) - Social Media Statistics
 - [IFTTT](https://ifttt.com/) - Create custom triggers to automate social media workflows
