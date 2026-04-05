@@ -179,6 +179,8 @@ Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 - [QApop](https://www.qapop.com/) - Find relevant Quora questions to answer 
 - [Smartlook](https://www.smartlook.com/)- Understand how people interact with your website and improve conversion
 - [SocialDog](https://social-dog.net/) - All-in-one Twitter marketing tool.
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source contacts (450M+), run multi-channel campaigns (email + LinkedIn), enroll prospects. JSON output. `npm install -g overloop-cli`
+- [Signals CLI](https://github.com/sortlist/signals-cli) - B2B intent signal monitoring. Track LinkedIn engagement, keyword posters, job changers, funding events. JSON output. `npm install -g signals-sortlist-cli`
 
 # Coworking & Virtual Offices
 - [WeWork](https://wework.com)
