@@ -96,6 +96,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [AngelList](https://angel.co/)
 - [BetaPage](https://betapage.co/)
 - [StartupJohn](https://www.startupjohn.com/)
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw
 
 # Accelerators
 - [Alchemist](https://alchemistaccelerator.com/) - Enterprise sales accelerator
@@ -189,3 +190,11 @@ Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 # Leadership & People
 - [How to Start a Movement](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=en) - 3 minute video drawing parallels to leadership and the importance of the people that follow the leader.  Critical for a start-up to achieve and maintain alignment
 - [Employee Engagement: The Wonder Drug For Customer Satisfaction](https://www.forbes.com/sites/kevinkruse/2014/01/07/employee-engagement-the-wonder-drug-for-customer-satisfaction/#152c5aeb6d46) - short article showing the high correlation between employee engagement and customer satisfaction. Satisfied customers and happy/engaged employees produce the most amazing start-ups - or any type of company for that matter.
+
+# AI Skills & Personas
+
+## RemoteOpenClaw
+General: [Overview](https://remoteopenclaw.com) | [OpenClaw Standard](https://github.com/openclaw)
+
+- Open marketplace for discovering, sharing, and distributing AI agent skills and personas
+- Built on the open-source OpenClaw standard
