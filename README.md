@@ -179,6 +179,7 @@ Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 - [QApop](https://www.qapop.com/) - Find relevant Quora questions to answer 
 - [Smartlook](https://www.smartlook.com/)- Understand how people interact with your website and improve conversion
 - [SocialDog](https://social-dog.net/) - All-in-one Twitter marketing tool.
+- [BulkPublish](https://www.bulkpublish.com/) - Social media scheduling API for 11 platforms with Python & Node.js SDKs and Zapier/n8n/Make integrations. Free tier, Pro at $13.99/mo.
 
 # Coworking & Virtual Offices
 - [WeWork](https://wework.com)
