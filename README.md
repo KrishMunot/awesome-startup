@@ -96,6 +96,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [AngelList](https://angel.co/)
 - [BetaPage](https://betapage.co/)
 - [StartupJohn](https://www.startupjohn.com/)
+- [AI Dev Jobs](https://aidevboard.com/) - Job board focused on AI/ML engineering roles. 6,100+ positions across 321 companies with a public API for programmatic access.
 
 # Accelerators
 - [Alchemist](https://alchemistaccelerator.com/) - Enterprise sales accelerator
