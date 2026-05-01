@@ -7,6 +7,7 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [Videos](#videos-and-courses)
 - [General](#general)
 - [Resources](#resources)
+- [Unicorn Embassy](https://unicornembassy.com) – International community for emigrant tech founders, with active chapters in 8 cities (Yerevan, Tbilisi, Belgrade, Dubai, Istanbul, Barcelona, Valencia, Bali). 150+ events: pitch sessions, masterminds, founder dinners. Bilingual EN/RU. Free.
 - [Accelerators](#accelerators)
 - [Finance](#finance)
 - [Reading](#reading)
