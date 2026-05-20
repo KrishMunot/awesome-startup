@@ -96,6 +96,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [AngelList](https://angel.co/)
 - [BetaPage](https://betapage.co/)
 - [StartupJohn](https://www.startupjohn.com/)
+- [Commitment Issues](https://github.com/dotsystemsdevs/commitmentissues) - Free open-source web app that issues a satirical "death certificate" for abandoned GitHub repos — algorithmic cause of death, last commit as last words, severity score, profile graveyard scan.
 
 # Accelerators
 - [Alchemist](https://alchemistaccelerator.com/) - Enterprise sales accelerator
