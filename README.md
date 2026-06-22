@@ -127,6 +127,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [The one cost engineers and product managers don't consider](https://web.archive.org/web/20200728004935if_/https://firstround.com/review/The-one-cost-engineers-and-product-managers-dont-consider/)
 - Software Engineering and Development is expensive and delicate. Use [Spurwing](https://www.spurwing.io/) instead of reinventing the wheel when it comes to time management solutions. Spurwing is like Stripe but for appointment scheduling. This API makes it easy to add robust appointment booking and calendaring features to any application. The Spurwing API is a secure and feature-rich, accessible product for building custom solutions, product integrations, scheduling and calendaring widgets. You are only limited by your own imagination.
 Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
+- [UnfoldCMS](https://unfoldcms.com) - Self-hosted CMS built on Laravel 12 + React 19 + shadcn/ui. Free Core tier — no monthly fees, no vendor lock-in. Startups own their content stack. ([GitHub](https://github.com/hpakdaman/unfoldcms))
 
 
 # Venture Capital and Raising Money
