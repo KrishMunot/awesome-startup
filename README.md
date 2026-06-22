@@ -96,6 +96,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [AngelList](https://angel.co/)
 - [BetaPage](https://betapage.co/)
 - [StartupJohn](https://www.startupjohn.com/)
+- [AI Fake Landing Checkup](https://github.com/ruiflow-team/ai-fake-landing-checkup) - Free open-source checklist for indie teams to assess whether their AI project is truly landing or just looking busy
 
 # Accelerators
 - [Alchemist](https://alchemistaccelerator.com/) - Enterprise sales accelerator
