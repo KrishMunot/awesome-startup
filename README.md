@@ -70,6 +70,7 @@ The role of Marketing has dramatically evolved over the last decade. Historicall
 - [Marc Andreessen & Dave McClure: The Future of Startups, VC's, and Technology](https://www.youtube.com/watch?v=pLNQZegq7KA&app=desktop)
 - [Foundation 37 // David Byttow](https://www.youtube.com/watch?feature=player_embedded&v=7PmBk7hgUqg)
 - [How to Start a Startup - IIM A](https://www.youtube.com/channel/UCtiqGX-_f8kA0MZkQ4yPJ5g)
+- [The Free X Growth Course](https://slappost.app/learn/) - 5 free, no-login lessons on growing on X (Twitter): hooks, threads, X's open-source algorithm, replies, and your profile funnel. No email wall, no paywall.
 
 
 # General
