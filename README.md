@@ -174,6 +174,7 @@ Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 - [Hootsuite](https://hootsuite.com) - Social Media Management Tools
 - [SocialBlade](https://socialblade.com/) - Social Media Statistics
 - [IFTTT](https://ifttt.com/) - Create custom triggers to automate social media workflows
+- [GetAppNiche](https://getappniche.com/) - iOS app market intelligence for revenue estimates, ASO keywords, reviews, and competitors
 - [Zapier](https://zapier.com/) -  Alternative to ifttt : triggers based automated workflows
 - [Phantombuster](https://phantombuster.com/) - Automate social media via webscraping
 - [QApop](https://www.qapop.com/) - Find relevant Quora questions to answer 
