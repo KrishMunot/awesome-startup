@@ -131,6 +131,7 @@ Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
 
 # Venture Capital and Raising Money
 
+- [VC Deal Flow Signal](https://signals.gitdealflow.com) - Free dataset tracking GitHub commit velocity across 1,695 venture-backed startups in 20 sectors. Weekly refresh, CC BY 4.0. Identifies high-momentum startups before funding rounds.
 - [Black Swan farming by Paul Graham](http://paulgraham.com/swan.html)
 - [How to convince investors by Paul Graham](http://paulgraham.com/convince.html)
 - [Breaking Down a Typical VC/Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process/)
