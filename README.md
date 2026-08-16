@@ -295,7 +295,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 ## Marketing, Sales and Metrics
 
 - [Startup Metrics for Pirates by Dave McClure](https://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version) - The AARRR framework: acquisition, activation, retention, referral, revenue.
-- [How New User Acquisition Channels Drive Change](http://brianbalfour.com/essays/new-user-acquisition-channels) - Brian Balfour on channel timing and saturation.
+- [How New User Acquisition Channels Drive Change](https://brianbalfour.com/essays/new-user-acquisition-channels) - Brian Balfour on channel timing and saturation.
 - [Four Fits for $100M+ Growth](https://brianbalfour.com/four-fits-growth-framework) - Why product-market fit alone does not produce growth.
 - [Elements of a Viral Launch Page](https://www.smashingmagazine.com/2011/09/elements-of-a-viral-launch-page/) - Old but the fundamentals of a landing page have not moved.
 - [Self-Service SaaS: A Beginner's Guide to Maximizing Growth](https://www.chargebee.com/resources/guides/self-service-saas-revenue-growth/) - A framework and real examples for managing self-service revenue.
@@ -320,6 +320,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [SocialDog](https://social-dog.net/) - All-in-one X and Twitter marketing tool.
 - [Smartlook](https://www.smartlook.com/) - Understand how people interact with your site and improve conversion.
 - [QuickTwit](https://quicktwit.com/) - Find trends in topics.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ## Task Management and Collaboration
 
