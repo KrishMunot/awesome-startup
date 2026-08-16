@@ -385,6 +385,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 ## Data and Market Research
 
 - [Crunchbase](https://www.crunchbase.com/) - Company, funding and investor data.
+- [GitDealFlow](https://gitdealflow.com/) - Alternative-data platform ranking early-stage companies by GitHub engineering activity (commit velocity, contributor growth) across 15 sectors and 350+ startups, with a free weekly signal report and an MCP server for AI agents.
 - [Product Hunt](https://www.producthunt.com/) - Daily launches, and a launch channel in its own right.
 - [Hacker News](https://news.ycombinator.com/) - Where a technical audience finds and criticizes new products.
 - [Sacra](https://sacra.com/) - Research on private company revenue and growth.
