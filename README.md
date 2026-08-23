@@ -381,6 +381,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [Y Combinator blog and podcast](https://www.ycombinator.com/blog) - Founder and partner conversations, plus current program thinking.
 - [Latent Space](https://www.latent.space/) - AI engineering, for founders building on models.
 - [SaaStr](https://www.saastr.com/) - Operational benchmarks for B2B SaaS at every stage.
+- [Storefront Brief](https://fortune-insight.onrender.com/shop/brief/index.html) - Weekly iOS/indie App Store fees, ASO, and storefront ops ([RSS](https://fortune-insight.onrender.com/shop/brief/feed.xml), [Issue 1](https://fortune-insight.onrender.com/shop/brief/issue-001-en.html)); free sample, paid archive.
 
 ## Data and Market Research
 
