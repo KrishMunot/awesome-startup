@@ -388,6 +388,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [Product Hunt](https://www.producthunt.com/) - Daily launches, and a launch channel in its own right.
 - [Hacker News](https://news.ycombinator.com/) - Where a technical audience finds and criticizes new products.
 - [Sacra](https://sacra.com/) - Research on private company revenue and growth.
+- [VentureDex](https://venturedex.co/research) - Source-backed startup research with funding context, product evidence, risk notes and machine-readable data.
 - [PitchWall](https://pitchwall.co/) - Discover and launch early-stage products, successor to BetaPage.
 - [One Person Company](https://onepersoncompany.com/) - Guides, tools and playbooks for building a profitable solo business with AI.
 - [Exploding Topics](https://explodingtopics.com/) - Spot demand trends before they are obvious.
