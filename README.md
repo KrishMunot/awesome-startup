@@ -325,6 +325,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 ## Task Management and Collaboration
 
 - [Linear](https://linear.app/) - Issue tracking and project management that engineering teams adopt without being told to.
+- [Stellary](https://stellary.co/) - AI-native project piloting and project management.
 - [Notion](https://www.notion.com/) - All-in-one workspace for notes, docs, wikis and lightweight databases.
 - [Asana](https://asana.com/) - Track your team's work and manage projects.
 - [Jira](https://www.atlassian.com/software/jira) - Issue tracking and agile planning at larger scale.
