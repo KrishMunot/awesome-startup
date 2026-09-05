@@ -374,6 +374,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 
 ## Newsletters and Podcasts
 
+- [AI Weekly](https://aiweekly.co/) - Tracks what influential AI experts and organizations read and share, with ranked explanations of models, agents, funding, policy and research.
 - [Lenny's Newsletter](https://www.lennysnewsletter.com/) - Product, growth and career advice with unusually concrete detail.
 - [Acquired](https://www.acquired.fm/) - Deep company histories that teach strategy through cases.
 - [The Diff](https://www.thediff.co/) - Inflections in finance and technology.
