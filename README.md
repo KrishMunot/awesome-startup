@@ -281,6 +281,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [AngelList](https://www.angellist.com/) - Fundraising, syndicates, roll-ups and startup equity tooling. Distinct from Wellfound, which took over the jobs and talent side.
 - [OpenVC](https://www.openvc.app/) - Searchable, filterable database of investors and their theses.
 - [Signal by NFX](https://signal.nfx.com/) - Investor search with warm-intro paths.
+- [deep-funding](https://github.com/pengpengyi92/deep-funding) - Open-source, evidence-aware agent-to-agent funding matchmaking: company and capital agents meet through bilateral screening, audit and an explainable match trace (MIT, local-first, live demo: pengyi-deep-funding.pengpengyi92.workers.dev).
 
 ## Accelerators
 
