@@ -265,6 +265,8 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [Snyk](https://snyk.io/) - Find and fix vulnerabilities in dependencies and containers.
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/) - The baseline web application risks to design against.
 - [Awesome Secure Defaults](https://github.com/tldrsec/awesome-secure-defaults) - Libraries that are safe by default, so security is the path of least resistance.
+- [Startup Security Policies](https://github.com/TrazTech-Inc/startup-security-policies) - Open-source security policy templates for startups preparing for SOC 2 and ISO 27001 audits.
+- [SOC 2 Readiness Checklist](https://traztech.ca/soc-2-readiness-checklist) - Free checklist covering every control area SOC 2 auditors review.
 
 ## Venture Capital and Raising Money
 
