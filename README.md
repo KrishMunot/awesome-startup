@@ -303,6 +303,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [Neil Patel's marketing blog](https://neilpatel.com/blog/) - Successor home for the Kissmetrics marketing guides.
 - [Founding Sales](https://www.foundingsales.com/) - A free book on building the first sales motion when the founder is the salesperson.
 - [Pricing Low-Touch SaaS](https://stripe.com/guides/atlas/saas-pricing) - Stripe's guide to the pricing decisions founders defer for too long.
+- [How to Check if ChatGPT Mentions Your Brand — SearchD](https://searchd.ai/answers/how-to-check-if-chatgpt-mentions-your-brand) - A manual workflow for selecting buyer questions and recording brand mentions, competitors, cited sources, and session conditions.
 
 ## Marketing Tools
 
