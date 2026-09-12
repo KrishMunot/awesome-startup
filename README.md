@@ -201,6 +201,7 @@ Founders consistently underinvest here. Evals are the AI equivalent of a test su
 - [The One Cost Engineers and Product Managers Don't Consider](https://web.archive.org/web/20200728004935if_/https://firstround.com/review/The-one-cost-engineers-and-product-managers-dont-consider/) - On complexity as a recurring cost rather than a one-time one.
 - [The Twelve-Factor App](https://12factor.net/) - Still the clearest baseline for building services that deploy cleanly.
 - [DORA](https://dora.dev/) - Research-backed metrics for delivery performance, and what actually improves them.
+- [Esdecode](https://esdecode.com/) - Marketplace for production-ready source code and self-hosted software that founders can use to accelerate product development.
 
 ## Product and Analytics
 
