@@ -250,6 +250,7 @@ Getting the paperwork right at the start is far cheaper than fixing it during di
 - [Wise Business](https://wise.com/business/) - Low-cost cross-border payments and multi-currency accounts.
 - [Pilot](https://pilot.com/) - Outsourced bookkeeping, tax and CFO support.
 - [Puzzle](https://puzzle.io/) - Accounting that stays close to real time, so your burn number is current.
+- [BusinessOS](https://businessos.biz) - Encrypted, offline-first invoicing and accounting for small businesses and freelancers. Voice-to-invoice in 3 seconds, WhatsApp send, multi-region tax built in.
 - [Guide to SaaS Metrics by David Skok](https://www.forentrepreneurs.com/saas-metrics/) - The definitive treatment of CAC, LTV and the cash flow trough.
 - [The SaaS Metrics That Matter](https://www.bvp.com/atlas/scaling-to-100-million) - Bessemer's benchmarks for growth, efficiency and retention.
 - [How Much To Start A Business](https://howmuchtostartabusiness.com/) - Estimate startup costs for 100+ business types, including legal, equipment, staffing and more
