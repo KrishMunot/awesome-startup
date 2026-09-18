@@ -392,6 +392,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [PitchWall](https://pitchwall.co/) - Discover and launch early-stage products, successor to BetaPage.
 - [One Person Company](https://onepersoncompany.com/) - Guides, tools and playbooks for building a profitable solo business with AI.
 - [Exploding Topics](https://explodingtopics.com/) - Spot demand trends before they are obvious.
+- [IntelCue](https://www.intelcue.ai/) - Monitors competitors and market sources (newsletters, blogs, news, ads, patents, filings, new subdomains) and turns what changed into weekly content opportunities.
 - [Google Trends](https://trends.google.com/trends/) - Free validation of search demand and seasonality.
 - [Statista](https://www.statista.com/) - Market size data for decks, with sources you should check.
 
