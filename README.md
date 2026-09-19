@@ -321,6 +321,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [SocialDog](https://social-dog.net/) - All-in-one X and Twitter marketing tool.
 - [Smartlook](https://www.smartlook.com/) - Understand how people interact with your site and improve conversion.
 - [QuickTwit](https://quicktwit.com/) - Find trends in topics.
+- [Stripo](https://stripo.email) - Drag-n-drop and HTML email builder with 1,690+ templates and one-click export to 90+ ESPs.
 
 ## Task Management and Collaboration
 
