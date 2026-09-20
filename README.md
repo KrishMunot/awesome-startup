@@ -266,6 +266,8 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/) - The baseline web application risks to design against.
 - [Awesome Secure Defaults](https://github.com/tldrsec/awesome-secure-defaults) - Libraries that are safe by default, so security is the path of least resistance.
 
+- [ComplyOnSite](https://complyonsite.com/) - Construction health, safety and environmental compliance software for UK contractors.
+
 ## Venture Capital and Raising Money
 
 - [Venture Deals course](https://venturedeals.com/) - Free companion course to the book, run by Techstars.
