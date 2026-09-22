@@ -347,6 +347,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [Rippling](https://www.rippling.com/) - HR, IT and finance in one system, including device provisioning.
 - [Gusto](https://gusto.com/) - Payroll and benefits for US teams.
 - [Ashby](https://www.ashbyhq.com/) - Applicant tracking with analytics that show where your funnel leaks.
+- [Allowly Hiring Evidence](https://allowly.ai/solutions/hiring/) - Applies approved employment-screening policies to selected fields, records linked reviews and corrections, and exports signed Hiring Decision Packs.
 - [Wellfound](https://wellfound.com/) - Startup jobs and candidate sourcing, formerly AngelList Talent.
 - [Welcome to the Jungle](https://www.welcometothejungle.com/) - Curated job marketplace skewed toward startup roles, which absorbed Otta.
 - [Levels.fyi](https://www.levels.fyi/) - Compensation data for calibrating offers.
