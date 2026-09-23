@@ -307,6 +307,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 ## Marketing Tools
 
 - [Buffer](https://buffer.com/) - Social media scheduling and analytics.
+- [SocialRoster](https://socialroster.dev) - Social media scheduling for TikTok, Instagram Reels, YouTube Shorts, and Facebook, with bulk upload and a calendar.
 - [Hootsuite](https://www.hootsuite.com/) - Social media management.
 - [BuzzSumo](https://buzzsumo.com/) - Find the most shared content and the key influencers in a niche.
 - [Ahrefs](https://ahrefs.com/) - SEO, backlink and keyword research.
