@@ -365,6 +365,8 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 
 ## Coworking and Virtual Offices
 
+- [AQX Logistics](https://aqxlogistics.com/) - US commercial warehouse addresses, sales tax-free locker forwarding, and cross-border freight.
+
 - [WeWork](https://www.wework.com/) - Coworking and private offices in most major cities.
 - [Regus](https://www.regus.com/) - Offices, coworking and virtual addresses worldwide.
 - [Industrious](https://www.industriousoffice.com/) - Coworking aimed at small teams wanting quieter space.
