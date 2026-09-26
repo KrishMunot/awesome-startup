@@ -371,6 +371,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [Staples Studio](https://www.staples.com/stores/studio) - Low-cost coworking in North America.
 - [Canada Virtual Office](https://canadavirtualoffice.com/) - Virtual addresses and mail handling in Canada.
 - [Deskpass](https://www.deskpass.com/) - On-demand access to many spaces on one membership, which suits distributed teams.
+- [CoworkingView](https://coworkingview.com/en) - Compares coworking and private offices across many operators in Europe and the UAE, with published prices.
 
 ## Newsletters and Podcasts
 
