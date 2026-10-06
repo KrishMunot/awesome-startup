@@ -226,6 +226,7 @@ Founders consistently underinvest here. Evals are the AI equivalent of a test su
 - [Lucide](https://lucide.dev/) - Open-source icon set.
 - [Coolors](https://coolors.co/) - Fast palette generation.
 - [Refactoring UI](https://refactoringui.com/) - Practical visual design rules for developers without a designer.
+- [BudgetPixel Design Templates](https://budgetpixel.com/design/templates) - Free editable templates for social posts, flyers, slides and business cards, edited in the browser with a free account.
 
 ## Incorporation, Legal and Equity
 
