@@ -310,6 +310,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [Hootsuite](https://www.hootsuite.com/) - Social media management.
 - [BuzzSumo](https://buzzsumo.com/) - Find the most shared content and the key influencers in a niche.
 - [Ahrefs](https://ahrefs.com/) - SEO, backlink and keyword research.
+- [BacklinkGenie](https://backlinkgenie.com/) - AI outreach agent that finds blog posts where your product fits and pitches each editor for a backlink.
 - [Resend](https://resend.com/) - Transactional email built for developers.
 - [Customer.io](https://customer.io/) - Behavior-triggered messaging across email, push and in-app.
 - [Loops](https://loops.so/) - Simple email marketing for SaaS teams.
