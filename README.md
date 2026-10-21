@@ -393,6 +393,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [One Person Company](https://onepersoncompany.com/) - Guides, tools and playbooks for building a profitable solo business with AI.
 - [Exploding Topics](https://explodingtopics.com/) - Spot demand trends before they are obvious.
 - [Google Trends](https://trends.google.com/trends/) - Free validation of search demand and seasonality.
+- [Superdemands](https://superdemands.com/) - Five years of Google search demand for trending topics, with growth, momentum and seasonality.
 - [Statista](https://www.statista.com/) - Market size data for decks, with sources you should check.
 
 ## Notes
