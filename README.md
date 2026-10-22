@@ -281,6 +281,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [AngelList](https://www.angellist.com/) - Fundraising, syndicates, roll-ups and startup equity tooling. Distinct from Wellfound, which took over the jobs and talent side.
 - [OpenVC](https://www.openvc.app/) - Searchable, filterable database of investors and their theses.
 - [Signal by NFX](https://signal.nfx.com/) - Investor search with warm-intro paths.
+- [vcfirmsdirectory.com](https://vcfirmsdirectory.com/) - Directory of 4,200 venture capital firms in 65 countries from SEC, ESMA and Companies House registers; team and portfolio sections are paid.
 
 ## Accelerators
 
