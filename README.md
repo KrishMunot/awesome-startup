@@ -308,6 +308,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 
 - [Buffer](https://buffer.com/) - Social media scheduling and analytics.
 - [Hootsuite](https://www.hootsuite.com/) - Social media management.
+- [JuzPost](https://www.juzpost.com/) - Social media scheduling for 11 networks, also from AI assistants over MCP; free plan, paid from $19/mo.
 - [BuzzSumo](https://buzzsumo.com/) - Find the most shared content and the key influencers in a niche.
 - [Ahrefs](https://ahrefs.com/) - SEO, backlink and keyword research.
 - [Resend](https://resend.com/) - Transactional email built for developers.
