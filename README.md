@@ -386,6 +386,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 ## Data and Market Research
 
 - [Crunchbase](https://www.crunchbase.com/) - Company, funding and investor data.
+- [EarlyLore](https://earlylore.com/) - Research workspace for founders: study real SaaS products, revenue signals and competitor changes before you build.
 - [Product Hunt](https://www.producthunt.com/) - Daily launches, and a launch channel in its own right.
 - [Hacker News](https://news.ycombinator.com/) - Where a technical audience finds and criticizes new products.
 - [Sacra](https://sacra.com/) - Research on private company revenue and growth.
