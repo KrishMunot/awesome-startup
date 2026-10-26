@@ -394,6 +394,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [Exploding Topics](https://explodingtopics.com/) - Spot demand trends before they are obvious.
 - [Google Trends](https://trends.google.com/trends/) - Free validation of search demand and seasonality.
 - [Statista](https://www.statista.com/) - Market size data for decks, with sources you should check.
+- [PainPoint Daily](https://painpointdaily.com) - Business opportunities for real problems people post on Reddit, new every day.
 
 ## Notes
 
