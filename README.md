@@ -310,6 +310,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [Hootsuite](https://www.hootsuite.com/) - Social media management.
 - [BuzzSumo](https://buzzsumo.com/) - Find the most shared content and the key influencers in a niche.
 - [Ahrefs](https://ahrefs.com/) - SEO, backlink and keyword research.
+- [App Store Localizer](https://asolocalization.com/) - Localize an App Store listing from its public URL: translated title, keywords and screenshots across 20-plus locales, one-time price per listing.
 - [Resend](https://resend.com/) - Transactional email built for developers.
 - [Customer.io](https://customer.io/) - Behavior-triggered messaging across email, push and in-app.
 - [Loops](https://loops.so/) - Simple email marketing for SaaS teams.
