@@ -212,6 +212,7 @@ Founders consistently underinvest here. Evals are the AI equivalent of a test su
 - [Maze](https://maze.co/) - Rapid, unmoderated user testing on prototypes.
 - [Dovetail](https://dovetail.com/) - Store and synthesize customer research so insights outlive the researcher.
 - [Feedbear](https://www.feedbear.com/) - Collect and prioritize feature requests to build your roadmap.
+- [Vaneform](https://vaneform.com/) - Free website traffic checker: monthly visits, trends, top countries and traffic sources for any domain.
 - [16 Startup Metrics](https://a16z.com/16-startup-metrics/) - a16z's definitions of the numbers investors will ask about, and the ones founders commonly conflate.
 - [What Is Good Retention?](https://www.lennysnewsletter.com/p/what-is-good-retention-issue-29) - Benchmark retention curves by business model, so you know whether yours is a problem.
 
