@@ -118,6 +118,7 @@ Before you build anything, these are the tools that change how a founder researc
 - [Perplexity](https://www.perplexity.ai/) - AI search with citations, useful for market research and competitive intel.
 - [NotebookLM](https://notebooklm.google.com/) - Ground a model in your own documents to interrogate contracts, research and transcripts.
 
+- [MeetNewAI](https://meetnewai.com/) - Free bilingual directory of AI tools, browser AI games and MCP servers, organized by the job you need done.
 ### Models and Access
 
 - [OpenAI Platform](https://developers.openai.com/api/docs) - API docs, pricing and model comparisons for the GPT family.
