@@ -390,6 +390,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [Hacker News](https://news.ycombinator.com/) - Where a technical audience finds and criticizes new products.
 - [Sacra](https://sacra.com/) - Research on private company revenue and growth.
 - [PitchWall](https://pitchwall.co/) - Discover and launch early-stage products, successor to BetaPage.
+- [RadarMakers](https://radarmakers.com/) - Free launch platform where indie makers list products and other makers can rate them on idea, execution, design and value.
 - [One Person Company](https://onepersoncompany.com/) - Guides, tools and playbooks for building a profitable solo business with AI.
 - [Exploding Topics](https://explodingtopics.com/) - Spot demand trends before they are obvious.
 - [Google Trends](https://trends.google.com/trends/) - Free validation of search demand and seasonality.
