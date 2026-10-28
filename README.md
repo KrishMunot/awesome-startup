@@ -135,6 +135,7 @@ Before you build anything, these are the tools that change how a founder researc
 - [Cursor](https://cursor.com/) - AI code editor with agents that plan and execute multi-file changes.
 - [Claude Code](https://claude.com/product/claude-code) - Anthropic's terminal-based coding agent.
 - [GitHub Copilot](https://github.com/features/copilot) - Completions, chat and coding agents inside GitHub and your editor.
+- [AppWizzy](https://appwizzy.com/) - AI web app builder with dedicated development VMs and Git-based editing; free for personal use, with a paid plan required for commercial use.
 - [Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro) - The open standard for connecting models to tools and data. Worth understanding early, because shipping an MCP server is now how you make your product addressable by other people's agents.
 - [Vercel AI SDK](https://ai-sdk.dev/) - TypeScript toolkit for streaming, tool calls and generative UI.
 - [LangChain and LangGraph](https://www.langchain.com/) - Orchestration for chains and stateful, multi-step agents.
