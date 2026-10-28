@@ -281,6 +281,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [AngelList](https://www.angellist.com/) - Fundraising, syndicates, roll-ups and startup equity tooling. Distinct from Wellfound, which took over the jobs and talent side.
 - [OpenVC](https://www.openvc.app/) - Searchable, filterable database of investors and their theses.
 - [Signal by NFX](https://signal.nfx.com/) - Investor search with warm-intro paths.
+- [The Grant Index](https://thegrantindex.com) - Free directory of 366 startup grants, cloud/AI credits and perks from 283 providers, with an eligibility checker.
 
 ## Accelerators
 
