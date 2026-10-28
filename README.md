@@ -192,6 +192,7 @@ Founders consistently underinvest here. Evals are the AI equivalent of a test su
 - [Cloudflare](https://www.cloudflare.com/developer-platform/) - Workers, D1, R2 and queues, with egress pricing that matters at scale.
 - [Supabase](https://supabase.com/) - Postgres with auth, storage and realtime included.
 - [Neon](https://neon.com/) - Serverless Postgres with database branching, which pairs well with per-PR environments.
+- [Nhost](https://nhost.io/) - Managed Postgres backend for agentic apps, with a GraphQL API, auth, storage, functions and an MCP server for AI agents.
 - [Clerk](https://clerk.com/) - Authentication and user management you do not have to build.
 - [Sentry](https://sentry.io/welcome/) - Error and performance monitoring.
 - [Datadog](https://www.datadoghq.com/) - Modern application monitoring and security.
