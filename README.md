@@ -264,6 +264,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [1Password](https://1password.com/business-security) - Credential management for teams.
 - [Snyk](https://snyk.io/) - Find and fix vulnerabilities in dependencies and containers.
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/) - The baseline web application risks to design against.
+- [Cyber Resilience Act guide](https://compeas.com/cyber-resilience-act) - Timeline, scope and requirements of the EU CRA for anyone selling software or connected products in the EU.
 - [Awesome Secure Defaults](https://github.com/tldrsec/awesome-secure-defaults) - Libraries that are safe by default, so security is the path of least resistance.
 
 ## Venture Capital and Raising Money
