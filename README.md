@@ -316,6 +316,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [Zapier](https://zapier.com/) - Trigger-based automated workflows between apps.
 - [IFTTT](https://ifttt.com/) - Custom triggers to automate social and device workflows.
 - [n8n](https://n8n.io/) - Open-source, self-hostable workflow automation with native AI steps.
+- [Mach GTM](https://machgtm.com) - AI outbound sales agent for B2B software teams. Builds a Brain from your website and case studies, finds leads showing buying signals, researches each prospect with source-verified facts, and writes personalised outreach across email, LinkedIn and WhatsApp. Every message requires human approval.
 - [Phantombuster](https://phantombuster.com/) - Automate social media data collection via scraping.
 - [SocialBlade](https://socialblade.com/) - Social media statistics and channel tracking.
 - [SocialDog](https://social-dog.net/) - All-in-one X and Twitter marketing tool.
