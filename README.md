@@ -408,3 +408,5 @@ Links are checked automatically every week by a [GitHub Actions workflow](.githu
 ## License
 
 [MIT](LICENSE.md)
+
+- [Invoicycle](https://invoicycle.com/) - Fast recurring invoicing, payment links, and client billing portals for modern businesses and startups.
