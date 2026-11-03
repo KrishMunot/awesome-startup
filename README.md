@@ -313,6 +313,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [Resend](https://resend.com/) - Transactional email built for developers.
 - [Customer.io](https://customer.io/) - Behavior-triggered messaging across email, push and in-app.
 - [Loops](https://loops.so/) - Simple email marketing for SaaS teams.
+- [MailVeri](https://mailveri.com/) - Bulk and real-time email verification API with pay-as-you-go credits that never expire.
 - [Zapier](https://zapier.com/) - Trigger-based automated workflows between apps.
 - [IFTTT](https://ifttt.com/) - Custom triggers to automate social and device workflows.
 - [n8n](https://n8n.io/) - Open-source, self-hostable workflow automation with native AI steps.
