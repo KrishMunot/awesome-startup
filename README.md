@@ -250,6 +250,7 @@ Getting the paperwork right at the start is far cheaper than fixing it during di
 - [Wise Business](https://wise.com/business/) - Low-cost cross-border payments and multi-currency accounts.
 - [Pilot](https://pilot.com/) - Outsourced bookkeeping, tax and CFO support.
 - [Puzzle](https://puzzle.io/) - Accounting that stays close to real time, so your burn number is current.
+- [Soluqube SSP Calculator](https://soluqube.com/tools/ssp-allocation-calculator) - Free web calculator allocating multi-element SaaS contracts by relative standalone selling price with terminal-period remainder absorption.
 - [Guide to SaaS Metrics by David Skok](https://www.forentrepreneurs.com/saas-metrics/) - The definitive treatment of CAC, LTV and the cash flow trough.
 - [The SaaS Metrics That Matter](https://www.bvp.com/atlas/scaling-to-100-million) - Bessemer's benchmarks for growth, efficiency and retention.
 - [How Much To Start A Business](https://howmuchtostartabusiness.com/) - Estimate startup costs for 100+ business types, including legal, equipment, staffing and more
