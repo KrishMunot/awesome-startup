@@ -318,6 +318,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [n8n](https://n8n.io/) - Open-source, self-hostable workflow automation with native AI steps.
 - [Phantombuster](https://phantombuster.com/) - Automate social media data collection via scraping.
 - [SocialBlade](https://socialblade.com/) - Social media statistics and channel tracking.
+- [SnapDataHub](https://snapdatahub.com/) - Look up public Snapchat creator profiles with their Spotlight performance and engagement metrics.
 - [SocialDog](https://social-dog.net/) - All-in-one X and Twitter marketing tool.
 - [Smartlook](https://www.smartlook.com/) - Understand how people interact with your site and improve conversion.
 - [QuickTwit](https://quicktwit.com/) - Find trends in topics.
