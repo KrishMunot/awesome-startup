@@ -126,6 +126,7 @@ Before you build anything, these are the tools that change how a founder researc
 - [Mistral AI](https://mistral.ai/) - Open-weight and commercial European models, often the cheapest capable option.
 - [Llama Models](https://github.com/meta-llama/llama-models) - Meta's open-weight family and model cards, the default when you need to self-host.
 - [OpenRouter](https://openrouter.ai/) - One API and one bill across hundreds of models, which makes switching providers a config change rather than a migration.
+- [UberLLM](https://uberllm.dev/) - One OpenAI- and Anthropic-compatible API key for text, image, video and music models, with per-model prices usually below list.
 - [Hugging Face](https://huggingface.co/) - Models, datasets and Spaces, plus the leaderboards worth checking before you pick a base model.
 - [Artificial Analysis](https://artificialanalysis.ai/) - Independent benchmarks of quality, latency and price per token across providers.
 - [Arena](https://arena.ai/) - Blind human preference rankings, a useful sanity check against vendor benchmarks.
