@@ -182,6 +182,7 @@ Founders consistently underinvest here. Evals are the AI equivalent of a test su
 - [Generative AI's Act o1](https://sequoiacap.com/article/generative-ais-act-o1/) - Sequoia on the shift from fast pattern-matching to models that reason, and what it means for products.
 - [Emerging Architectures for LLM Applications](https://a16z.com/emerging-architectures-for-llm-applications/) - The reference diagram for how these systems fit together.
 - [Anthropic's Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) - Argues for simple, composable patterns over frameworks, and is right more often than not.
+- [How to Evaluate Your First B2B AI Pilot](https://nobsstartupcoach.com/blog/evaluate-first-b2b-ai-pilot/) - Worked example comparing review, correction, usage costs and customer acceptance before extending a pilot.
 
 ## Engineering and Infrastructure
 
