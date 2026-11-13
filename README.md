@@ -220,6 +220,7 @@ Founders consistently underinvest here. Evals are the AI equivalent of a test su
 - [Figma](https://www.figma.com/) - Collaborative interface design, and the file format the industry speaks.
 - [Framer](https://www.framer.com/) - Design and publish marketing sites without a front-end build step.
 - [v0](https://v0.app/) - Generate React and Tailwind interfaces from prompts or screenshots.
+- [Kleap](https://kleap.co/ai-website-generator) - AI website generator that builds a complete, editable website or app from a plain-language description.
 - [shadcn/ui](https://ui.shadcn.com/) - Copy-paste accessible components you own outright, rather than a dependency you fight.
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first styling that keeps small teams visually consistent.
 - [Radix Primitives](https://www.radix-ui.com/primitives) - Unstyled, accessible component behavior.
