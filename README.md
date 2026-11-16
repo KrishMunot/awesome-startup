@@ -117,6 +117,7 @@ Before you build anything, these are the tools that change how a founder researc
 - [Claude](https://claude.ai/) - Long-context assistant suited to product specs, coding help and founder workflows.
 - [Perplexity](https://www.perplexity.ai/) - AI search with citations, useful for market research and competitive intel.
 - [NotebookLM](https://notebooklm.google.com/) - Ground a model in your own documents to interrogate contracts, research and transcripts.
+- [HumanPen](https://humanpen.net/) - Document-level AI humanizer, 12-language translator, condenser, and citation formatter with REST API and 100 free signup credits.
 
 ### Models and Access
 
