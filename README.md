@@ -307,6 +307,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 ## Marketing Tools
 
 - [Buffer](https://buffer.com/) - Social media scheduling and analytics.
+- [FacelessShorts](https://facelessshorts.io) - Scripted faceless short-form video series with voiceover, captions, and scheduled publishing to Shorts, TikTok, and Reels.
 - [Hootsuite](https://www.hootsuite.com/) - Social media management.
 - [BuzzSumo](https://buzzsumo.com/) - Find the most shared content and the key influencers in a niche.
 - [Ahrefs](https://ahrefs.com/) - SEO, backlink and keyword research.
