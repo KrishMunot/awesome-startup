@@ -332,6 +332,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [Airtable](https://www.airtable.com/) - Flexible spreadsheets that behave like a database.
 - [Monday.com](https://monday.com/) - One platform for cross-functional teamwork.
 - [Todoist](https://www.todoist.com/) - A to-do list to organize work and life.
+- [Little Ippo](https://littleippo.com/) - A personal daily planner for tasks, habits, and calendar scheduling.
 - [Taskade](https://www.taskade.com/) - Collaborative task lists and outlines.
 - [Slack](https://slack.com/) - Team chat and the integration surface most tools target.
 - [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/) - Workspace chat, videoconferencing, file storage and third-party integrations.
