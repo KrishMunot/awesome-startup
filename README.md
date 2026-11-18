@@ -302,6 +302,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [Self-Service SaaS: A Beginner's Guide to Maximizing Growth](https://www.chargebee.com/resources/guides/self-service-saas-revenue-growth/) - A framework and real examples for managing self-service revenue.
 - [Neil Patel's marketing blog](https://neilpatel.com/blog/) - Successor home for the Kissmetrics marketing guides.
 - [Founding Sales](https://www.foundingsales.com/) - A free book on building the first sales motion when the founder is the salesperson.
+- [Become a GTM Engineer](https://github.com/landedjobs/become-a-gtm-engineer) - A free guide to the go-to-market engineer role: the tool stack, automation, a roadmap and portfolio projects.
 - [Pricing Low-Touch SaaS](https://stripe.com/guides/atlas/saas-pricing) - Stripe's guide to the pricing decisions founders defer for too long.
 
 ## Marketing Tools
