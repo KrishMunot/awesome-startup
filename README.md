@@ -274,6 +274,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [Black Swan Farming by Paul Graham](https://paulgraham.com/swan.html) - Why the best investments look like bad ideas.
 - [Fundraising Mistakes Founders Make](https://blog.samaltman.com/fundraising-mistakes-founder-make) - Common own-goals, enumerated.
 - [Breaking Down a Typical VC Diligence Process](https://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process/) - What happens after the term sheet.
+- [DDScore Sample Due Diligence Report](https://www.ddscore.ai/example-report/) - Free worked diligence example for a fictional seed-stage company, with source documents, conflicting claims, evidence gaps, and follow-up questions.
 - [Five Rules for the Pitch Deck](https://medium.com/boost-vc/5-rules-for-the-pitch-deck-d7c7bbc3185d) - Structure that survives a ten-minute meeting.
 - [Raising Capital: The Advice We Give Our Founders](https://a16z.com/raising-capital-this-is-the-advice-we-give-our-founders/) - a16z on valuation and dilution tradeoffs.
 - [YC's Guide to Seed Fundraising](https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising) - Process, instruments and how much to raise.
