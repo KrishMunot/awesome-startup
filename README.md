@@ -236,6 +236,7 @@ Getting the paperwork right at the start is far cheaper than fixing it during di
 - [Carta](https://carta.com/) - Cap table, equity issuance and 409A valuations.
 - [Pulley](https://pulley.com/) - Cap table management with modeling aimed at earlier-stage teams.
 - [Firstbase](https://www.firstbase.io/) - Company formation and compliance for founders outside the US.
+- [US state LLC fees dataset](https://github.com/zylarai/us-state-llc-fees) - Filing and yearly state fees for an LLC in all 50 states and DC, with official sources per row.
 - [Y Combinator SAFE documents](https://www.ycombinator.com/documents) - The standard post-money SAFE templates, free to use.
 - [Cooley GO](https://www.cooleygo.com/) - Free document generators and plain-language explanations of startup legal mechanics.
 - [Docusign](https://www.docusign.com/) - Electronic signatures.
