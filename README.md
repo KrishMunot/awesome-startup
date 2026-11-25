@@ -292,6 +292,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [AI Grant](https://aigrant.com/) - Non-dilutive-style funding and compute credits for AI-native startups.
 - [Antler](https://www.antler.co/) - Day-zero investing with cofounder matching across many cities.
 - [South Park Commons](https://www.southparkcommons.com/) - A community for people in the pre-idea stage.
+- [CoFound Solo](https://cofoundpartners.com/solo) - A $500K fellowship for solo founders, with $500K in cloud credits and dedicated GTM and recruiting support.
 
 ## Marketing, Sales and Metrics
 
