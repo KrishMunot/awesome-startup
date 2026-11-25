@@ -1,192 +1,411 @@
 # Awesome Startup
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome books, videos, courses and resources about making a startup.
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Link Check](https://github.com/KrishMunot/awesome-startup/actions/workflows/link-check.yml/badge.svg)](https://github.com/KrishMunot/awesome-startup/actions/workflows/link-check.yml)
+
+A curated list of awesome books, videos, courses, tools and resources about making a startup.
+
+The timeless advice on this list still holds: talk to users, ship fast, watch your runway. What changed is the cost of building. A founder in 2026 can put a working product in front of customers before a 2015 founder would have finished hiring, so the sections below cover both the fundamentals and the AI-era tooling that compresses the loop.
+
+## Contents
 
 - [Books](#books)
-- [Videos](#videos-and-courses)
-- [General](#general)
-- [Resources](#resources)
-- [Accelerators](#accelerators)
-- [Finance](#finance)
-- [Reading](#reading)
-- [Engineering](#engineering)
+- [Videos and Courses](#videos-and-courses)
+- [Essays and Reading](#essays-and-reading)
+- [AI for Founders](#ai-for-founders)
+- [Engineering and Infrastructure](#engineering-and-infrastructure)
+- [Product and Analytics](#product-and-analytics)
+- [Design and Brand](#design-and-brand)
+- [Incorporation, Legal and Equity](#incorporation-legal-and-equity)
+- [Finance and Banking](#finance-and-banking)
+- [Security and Compliance](#security-and-compliance)
 - [Venture Capital and Raising Money](#venture-capital-and-raising-money)
-- [Marketing, Sales & metrics](#marketing-sales--metrics)
-- [Task Management & Collaboration](#task-management--collaboration)
+- [Accelerators](#accelerators)
+- [Marketing, Sales and Metrics](#marketing-sales-and-metrics)
 - [Marketing Tools](#marketing-tools)
-- [Coworking & Virtual Offices](#coworking--virtual-offices)
-- [Leadership & People](#leadership--people)
+- [Task Management and Collaboration](#task-management-and-collaboration)
+- [Hiring, Remote and People Ops](#hiring-remote-and-people-ops)
+- [Leadership and People](#leadership-and-people)
+- [Coworking and Virtual Offices](#coworking-and-virtual-offices)
+- [Newsletters and Podcasts](#newsletters-and-podcasts)
+- [Data and Market Research](#data-and-market-research)
+- [Notes](#notes)
+- [Contributing](#contributing)
 
+## Books
 
-# Books
-* [Quotes / Lessons / Videos for Entrepreneurs and Startups](http://www.blockshelf.com/)
-* [For Entrepreneurs](http://powerbooks.strikingly.com/)
-* [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?ie=UTF8&qid=1540102964&sr=8-1&keywords=0+to+1) Notes on Startups, or How to Build the Future 
-* [Startup Notes](http://startupnotes.org/#page/1)
-* [Hooked: How to Build Habit-Forming Products](http://amzn.com/1591847788)
-- [The Lean Startup by Eric Ries](http://www.amazon.com/Lean-Startup-Innovation-Successful-ebook/dp/B004J4XGN6/)
-- [Business Model Generation by Alexander Osterwalder](http://www.amazon.com/Business-Model-Generation-Visionaries-ebook/dp/B00BD6RFFS/)
-- [The Startup Owner's Manual by Steve Blank](http://www.amazon.com/Startup-Owners-Manual-Step--ebook/dp/B009UMTMKS/) - The Startup Owner's Manual lays out the best practices, lessons and tips that have swept the startup world, offering a wealth of proven advice and information for entrepreneurs of all stripes.
-- [Running Lean by Ash Maurya](http://www.amazon.com/Running-Lean-Iterate-Series-ebook/dp/B006UKFFE0/) - A practical guide to the Lean Startup
-- [Founders At Work by Jessica Livingston](http://www.amazon.com/Founders-Work-Stories-Startups-ebook/dp/B009IXMK4O/) - A collection of interviews about the early days of popular technology companies
-- [The Founder's Dilemmas by Noam Wasserman](http://www.amazon.com/The-Founders-Dilemmas-Entrepreneurship-ebook/dp/B007AIXKUM/) - Drawing on a decade of research, Noam Wasserman reveals the common pitfalls founders face and how to avoid them.
-- [Venture Deals by Brad Feld and Jason Mendelson](http://www.amazon.com/Venture-Deals-Smarter-Capitalist-ebook/dp/B00AO2PWOI/)
-- [Venture Capitalists at Work by Tarang Shah and Sheetal Shah](http://www.amazon.com/Venture-Capitalists-Work-Billion-Dollar-ebook/dp/B006C9EM1Q/) - Venture Capitalists at Work: How VCs Identify and Build Billion-Dollar Successes offers unparalleled insights into the funding and management of companies like YouTube, Zappos, Twitter, Starent, Facebook, and Groupon. The venture capitalists profiled—among the best in the business—also reveal how they identify promising markets, products, and entrepreneurs.
-- [Traction: A Startup Guide to Getting Customers](https://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer/dp/0241242533)
-- [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?ie=UTF8&qid=1540102964&sr=8-1&keywords=0+to+1) Notes on Startups, or How to Build the Future
-- [Hello, Startup](https://www.hello-startup.net/) - The "Hello, World" tutorial for building a startup
-* [The Balanced Scorecard: Translating Strategy into Action](https://www.amazon.com/Balanced-Scorecard-Translating-Strategy-Action/dp/0875846513) - The Balanced Scorecard translates a company's vision and strategy into a coherent set of performance measures. The four perspectives of the scorecard--financial measures, customer knowledge, internal business processes, and learning and growth--offer a balance between short-term and long-term objectives, between outcomes desired and performance drivers of those outcomes, and between hard objective measures and softer, more subjective measures. This is a great tool for all companies, but importantly early stage companies, to help them translate data to data execution into actionable and measurable outcomes, across the business.
-* [Good to Great: Why Some Companies Make the Leap and Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996) - Using tough benchmarks, Collins and his research team identified a set of elite companies that made the leap to great results and sustained those results for at least fifteen years. How great? After the leap, the good-to-great companies generated cumulative stock returns that beat the general stock market by an average of seven times in fifteen years, better than twice the results delivered by a composite index of the world's greatest companies, including Coca-Cola, Intel, General Electric, and Merck.  
-* [The Innovator's Solution: Creating and Sustaining Successful Growth](https://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1422196577) - Helpful to growth stage companies who are moving beyond their initial successful product, provides a great framework for how to invest beyond the core.
-* [Tribes: We Need You to Lead Us](https://www.amazon.com/Tribes-We-Need-You-Lead-ebook/dp/B001FA0LAI/) - 
-Seth Godin stresses the importance and benefits of knowing your audience and staying hyper-focused on them to build a loyal following. “With his signature wit and storytelling flair, Godin presents the three steps to building a tribe: the desire to change things, the ability to connect a tribe, and the willingness to lead.
-* [Rise of the Revenue Marketer](https://www.amazon.com/Rise-Revenue-Marketer-Debbie-Qaqish/dp/1610054075/) -
-The role of Marketing has dramatically evolved over the last decade. Historically seen exclusively as a cost-center for the business, this shift tasks Marketing with generating revenue. This book highlights these changes and outlines the organizational structure necessary to drive this accountability and growth. 
-* [Built to Last: Successful Habits of Visionary Companies](https://www.amazon.com/Built-Last-Successful-Visionary-Essentials/dp/0060516402) - Built to Last provides a master blueprint for building organizations that will prosper long into the 21st century and beyond.
-* [Change the Culture, Change the Game: The Breakthrough Strategy for Energizing Your Organization and Creating Accountability for Results](https://www.amazon.com/Change-Culture-Game-Breakthrough-Organization/dp/1591845394) - shows how leaders can achieve record-breaking results by quickly and effectively shaping their organizational culture to capitalize on their greatest asset-their people.
-* [Think Like a Founder](https://www.manning.com/books/think-like-a-founder) - Discover the good, the bad, and the ugly of succeeding with a tech startup from nine-time company founder Jothy Rosenberg.
-* [Think Like a CTO](https://www.manning.com/books/think-like-a-cto) - A book that shares the experience and advice of veteran CTOs and industry experts for handling IT crises, leading tech teams, and creating an inspiring vision for your company.
+- [The Lean Startup by Eric Ries](https://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898) - The build-measure-learn loop that named a generation of startups.
+- [Zero to One by Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) - Notes on startups, or how to build the future.
+- [The Startup Owner's Manual by Steve Blank](https://www.amazon.com/Startup-Owners-Manual-Step--ebook/dp/B009UMTMKS/) - Best practices, lessons and tips that have swept the startup world, offering a wealth of proven advice for entrepreneurs of all stripes.
+- [The Four Steps to the Epiphany by Steve Blank](https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507) - The book that introduced customer development.
+- [Running Lean by Ash Maurya](https://www.amazon.com/Running-Lean-Iterate-Works-Series/dp/1449305172) - A practical guide to iterating from plan A to a plan that works.
+- [Business Model Generation by Alexander Osterwalder](https://www.amazon.com/Business-Model-Generation-Visionaries-ebook/dp/B00BD6RFFS/) - Origin of the business model canvas.
+- [Hooked: How to Build Habit-Forming Products by Nir Eyal](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788) - The hook model behind products people return to without prompting.
+- [Founders At Work by Jessica Livingston](https://www.amazon.com/Founders-Work-Stories-Startups-ebook/dp/B009IXMK4O/) - A collection of interviews about the early days of popular technology companies.
+- [The Founder's Dilemmas by Noam Wasserman](https://www.amazon.com/The-Founders-Dilemmas-Entrepreneurship-ebook/dp/B007AIXKUM/) - Drawing on a decade of research, Wasserman reveals the common pitfalls founders face and how to avoid them.
+- [Venture Deals by Brad Feld and Jason Mendelson](https://www.amazon.com/Venture-Deals-Smarter-Capitalist-ebook/dp/B00AO2PWOI/) - Term sheets and deal mechanics explained by people who write them.
+- [Venture Capitalists at Work by Tarang Shah and Sheetal Shah](https://www.amazon.com/Venture-Capitalists-Work-Billion-Dollar-Successes/dp/1430238372) - How VCs identify promising markets, products and entrepreneurs.
+- [Traction by Gabriel Weinberg and Justin Mares](https://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer/dp/0241242533) - The bullseye framework for working through nineteen customer acquisition channels.
+- [High Output Management by Andrew S. Grove](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884) - The management text most operators keep returning to.
+- [The Hard Thing About Hard Things by Ben Horowitz](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) - Building a business when there are no easy answers.
+- [Amp It Up by Frank Slootman](https://www.amazon.com/Amp-It-Up-Leading-Expectations/dp/1119836115) - Raising expectations, increasing urgency and narrowing focus, from the CEO who took Snowflake public.
+- [The Cold Start Problem by Andrew Chen](https://www.amazon.com/Cold-Start-Problem-Andrew-Chen/dp/0062969749) - How network effects begin, scale and defend themselves.
+- [Good to Great by Jim Collins](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996) - Using tough benchmarks, Collins identified elite companies that made the leap to great results and sustained them for at least fifteen years.
+- [Built to Last by Jim Collins and Jerry Porras](https://www.amazon.com/Built-Last-Successful-Visionary-Essentials/dp/0060516402) - A master blueprint for building organizations that prosper across decades.
+- [The Innovator's Solution by Clayton Christensen](https://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1422196577) - Useful to growth stage companies moving beyond their initial product, with a framework for investing beyond the core.
+- [The Balanced Scorecard by Kaplan and Norton](https://www.amazon.com/Balanced-Scorecard-Translating-Strategy-Action/dp/0875846513) - Translates vision and strategy into a coherent set of performance measures across financials, customers, internal processes, and learning and growth.
+- [Tribes by Seth Godin](https://www.amazon.com/Tribes-We-Need-You-Lead-ebook/dp/B001FA0LAI/) - The importance of knowing your audience and staying hyper-focused on them to build a loyal following.
+- [Change the Culture, Change the Game by Connors and Smith](https://www.amazon.com/Change-Culture-Game-Breakthrough-Organization/dp/1591845394) - How leaders shape organizational culture to capitalize on their greatest asset, their people.
+- [Rise of the Revenue Marketer by Debbie Qaqish](https://www.amazon.com/Rise-Revenue-Marketer-Debbie-Qaqish/dp/1610054075/) - Marketing's shift from cost center to revenue owner, and the org structure that shift requires.
+- [The Five Dysfunctions of a Team by Patrick Lencioni](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team) - The five dysfunctions at the heart of why even good teams struggle, and actionable steps to overcome them.
+- [The Five Temptations of a CEO by Patrick Lencioni](https://www.goodreads.com/book/show/49146.The_Five_Temptations_of_a_CEO) - A provocative message: CEOs mainly have themselves to blame when things go wrong.
+- [The Four Obsessions of an Extraordinary Executive by Patrick Lencioni](https://www.goodreads.com/book/show/49172.The_Four_Obsessions_of_an_Extraordinary_Executive) - A leader's crucial role in building a healthy organization, the linchpin of sustained success.
+- [Think Like a Founder by Jothy Rosenberg](https://www.manning.com/books/tech-startup-toolkit) - The good, the bad and the ugly of succeeding with a tech startup, from a nine-time founder. Published as *Tech Startup Toolkit*.
+- [Think Like a CTO by Alan Williamson](https://www.manning.com/books/think-like-a-cto) - Veteran CTOs on handling IT crises, leading tech teams and creating an inspiring technical vision.
+- [Hello, Startup by Yevgeniy Brikman](https://www.hello-startup.net/) - The "Hello, World" tutorial for building a startup.
+- [Startup Notes](http://ffc2016.startupnotes.org/) - Condensed notes from founder talks.
+- [For Entrepreneurs](https://powerbooks.youngandceo.com/) - A reading shortlist for first-time founders.
 
-# Videos and Courses
+## Videos and Courses
 
-- [How to start a startup (course)](https://startupclass.co/course/how-to-start-a-startup)
-- [Steve Jobs' Vision of the World (video)](https://www.youtube.com/watch?v=Tuw8hxrFBH8)
+- [Y Combinator's Startup School](https://www.startupschool.org/) - Free online program with a curriculum, peer groups and founder talks.
+- [YC Startup Library](https://www.ycombinator.com/library) - YC's searchable archive of essays, talks and playbooks, and the best single starting point on this list.
+- [How to Start a Startup (Stanford CS183B)](https://www.youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1) - The full Sam Altman lecture series, hosted on YouTube now that the original course site is offline.
+- [How to Build a Startup by Steve Blank (Udacity)](https://www.udacity.com/course/how-to-build-a-startup--ep245) - An introduction to the customer development process, where founders "get out of the building" to gather customer feedback and use it to iterate on their business model.
+- [Developing Innovative Ideas for New Companies (Coursera)](https://www.coursera.org/learn/innovative-ideas) - Identify opportunities based on real customer needs, develop solid business models and create successful companies.
+- [Entrepreneurship courses at edX](https://www.edx.org/learn/entrepreneurship) - Free online entrepreneurship and business development courses from MIT, IIMB and other top schools.
+- [Steve Jobs' Vision of the World](https://www.youtube.com/watch?v=Tuw8hxrFBH8) - Short talk on building things you believe in.
+- [Authors@Google: Eric Ries, "The Lean Startup"](https://www.youtube.com/watch?v=fEvKo90qBns) - Ries presenting the ideas himself.
+- [Marc Andreessen and Dave McClure: The Future of Startups, VCs and Technology](https://www.youtube.com/watch?v=pLNQZegq7KA) - Wide-ranging conversation on where value accrues.
+- [500 Startups #500distro conference videos](https://www.youtube.com/playlist?list=PLOStnEM8wBOZMOr_jwoK4-EtPuX5fJrzK) - Distribution and growth tactics from practitioners.
+- [YC Startup School 2012-2014 videos](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg/playlists) - The early archive of YC talks.
+- [How to Start a Startup - IIM Ahmedabad](https://www.youtube.com/channel/UCtiqGX-_f8kA0MZkQ4yPJ5g) - Lecture series with an India-focused lens.
+- [Startup Talks](http://startuptalks.tv/) - Collected founder talks.
+- [Y Combinator Universe](https://ycuniverse.com/) - A browsable map of YC companies and resources.
 
-* [Startup Talks](http://startuptalks.tv/)
-* [Startup Movies](http://startupmovies.be-genius.com/)
-- [The Lean Launchpad by Steve Blank (Udacity)](https://www.udacity.com/course/ep245) - Learn the key tools and steps to build a successful startup (or at least reduce the risk of failure). An introduction to the basics of Steve Blank's famous Customer Development process, where entrepreneurs "get out of the building" to gather massive amounts of customer and marketplace feedback, and then use that feedback to continuously iterate and evolve their startup business models, improving the chances of success at every step.
+## Essays and Reading
 
-- [Startup Engineering (Coursera)](https://www.coursera.org/course/startup) - Learn the engineering skills needed to build a technology startup from the ground up.
-- [Developing Innovative Ideas for New Companies (Coursera)](https://www.coursera.org/course/innovativeideas) - Explore how to identify and develop great ideas into great companies. Learn how to identify opportunities based on real customer needs. Develop solid business models. Create successful companies.
-- [500 Startups #500distro conference videos](https://www.youtube.com/playlist?list=PLOStnEM8wBOZMOr_jwoK4-EtPuX5fJrzK)
-- [YC Startup School 2012, 2013, 2014 videos](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg/playlists)
-* [How to Start a Startup](http://startupclass.samaltman.com/)
-* [Y Combinator Universe](http://ycuniverse.com/)
-* [Y Combinator Startup Class](https://courses.platzi.com/classes/startup-class/)
-- [Y Combinator's startup School](https://www.startupschool.org/)
-* [Startup courses at Edx](https://www.edx.org/learn/starting-business) - Learn how to start your new business venture with free online entrepreneurship and business development courses from MIT, IIMB and other top schools.
-- [Authors @Google: Eric Ries "The Lean Startup"](https://www.youtube.com/watch?v=fEvKo90qBns)
-- [Marc Andreessen & Dave McClure: The Future of Startups, VC's, and Technology](https://www.youtube.com/watch?v=pLNQZegq7KA&app=desktop)
-- [Foundation 37 // David Byttow](https://www.youtube.com/watch?feature=player_embedded&v=7PmBk7hgUqg)
-- [How to Start a Startup - IIM A](https://www.youtube.com/channel/UCtiqGX-_f8kA0MZkQ4yPJ5g)
+- [Paul Graham's essays](https://paulgraham.com/articles.html) - The complete archive. Start with the four below.
+- [How to Get Startup Ideas](https://paulgraham.com/startupideas.html) - Notice problems you have yourself rather than trying to think up ideas.
+- [Do Things That Don't Scale](https://paulgraham.com/ds.html) - Recruit users manually and give them an experience that cannot last.
+- [Startup = Growth](https://paulgraham.com/growth.html) - What makes a startup a startup, defined precisely.
+- [The 18 Mistakes That Kill Startups](https://paulgraham.com/startupmistakes.html) - A checklist of failure modes worth rereading yearly.
+- [What Startups Are Really Like](https://paulgraham.com/really.html) - Founders describing what surprised them.
+- [Sam Altman's blog](https://blog.samaltman.com/) - Short, dense posts on companies and ambition.
+- [Startup Advice, Briefly](https://blog.samaltman.com/startup-advice-briefly) - Ninety points, no filler.
+- [Startup Advice by Sam Altman](https://blog.samaltman.com/startup-advice) - The longer form version.
+- [Ideas Are Just a Multiplier of Execution](https://sive.rs/multiply) - Derek Sivers on why execution is the term that matters.
+- [The Pmarca Guide to Startups: The Only Thing That Matters](https://pmarchive.com/guide_to_startups_part4.html) - Marc Andreessen on product-market fit, from his own archive.
+- [The 30 Best Pieces of Advice for Entrepreneurs](https://review.firstround.com/30-best-pieces/) - First Round Review's greatest hits.
+- [First Round Review](https://review.firstround.com/) - Long-form operational advice, consistently among the best startup writing anywhere.
+- [The Dentist Office Software Story](https://avc.com/2014/07/the-dentist-office-software-story/) - Fred Wilson on why incumbents lose to focused newcomers.
+- [My Best Advice for Entrepreneurs: Learn to Speak](https://www.linkedin.com/pulse/20130819204919-62614725-my-best-advice-for-entrepreneurs) - Communication as a founder's highest-leverage skill.
+- [Paul Graham on Building Companies for Fast Growth](https://www.inc.com/magazine/201309/issie-lapowsky/how-paul-graham-became-successful.html) - Profile with useful detail on YC's early thinking.
+- [27 Books Every Startup Ought to Read by Hiten Shah](https://hitenism.com/startup-books/) - An opinionated reading path.
+- [Stay Small, Be Agile, Grow Fast](https://longform.asmartbear.com/) - Jason Cohen's long-form essays on bootstrapping, pricing and positioning.
+- [How to Start a One Person Company](https://onepersoncompany.com/how-to-start-a-one-person-company) - A walkthrough of the solo, AI-assisted operating model.
 
+## AI for Founders
 
-# General
-- [The Lean Startup - Eric Ries (book)](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898)
-- [Running Lean - Ash Maurya (book)](http://www.amazon.com/Running-Lean-Iterate-Works-Series/dp/1449305172)
-- [The Four Steps to the Epiphany - Steve Blank (book)](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507)
-- [Sam Altman's blog](http://blog.samaltman.com/)
-- [Startup advice, briefly](http://blog.samaltman.com/startup-advice-briefly)
-- [Paul Graham's essays](http://www.paulgraham.com/articles.html)
-- [How to get startup ideas](http://www.paulgraham.com/startupideas.html)
-- [Do thing's that don't scale](http://paulgraham.com/ds.html)
-- [18 Mistakes that kill startups](http://www.paulgraham.com/startupmistakes.html)
-- [How to raise money](http://www.paulgraham.com/fr.html)
-- [High Output Management - Andrew S. Grove (book)](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
-- Three business fables by [Patrick Lencioni](https://en.wikipedia.org/wiki/Patrick_Lencioni) that are powerful tools to be a better leader:
-- [The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team) - Throughout the story, Lencioni reveals the five dysfunctions which go to the very heart of why teams even the best ones-often struggle. He outlines a powerful model and actionable steps that can be used to overcome these common hurdles and build a cohesive, effective team. 
-- [The Five Temptations of a CEO: A Leadership Fable by Patrick Lencioni](https://www.goodreads.com/book/show/49146.The_Five_Temptations_of_a_CEO) - Patrick Lencioni delivers a provocative message. CEOs mainly have themselves to blame when things go wrong. If you're a CEO (or a manager for that matter), do you have the courage to face it? Doing so could change your future -- for the better.
-- [The Four Obsessions of an Extraordinary Executive: The Four Disciplines at the Heart of Making Any Organization World Class by Patrick Lencioni](https://www.goodreads.com/book/show/49172.The_Four_Obsessions_of_an_Extraordinary_Executive)  - In this follow-up to his best-selling book, The Five Temptations of a CEO, Patrick Lencioni's focus is on a leader's crucial role in building a healthy organization--an often overlooked but essential element of business life that is the linchpin of sustained success. 
+The most consequential change to startup building since this list began. A small team can now ship what used to take a floor of engineers, but the same leverage is available to your competitors, so the durable advantages are distribution, proprietary data and taste.
 
-# Resources
-- [Product Hunt](http://www.producthunt.com/)
-- [Hacker News](https://news.ycombinator.com/)
-- [Crunchbase](http://www.crunchbase.com/)
-- [AngelList](https://angel.co/)
-- [BetaPage](https://betapage.co/)
-- [StartupJohn](https://www.startupjohn.com/)
+### Working with AI Day to Day
 
-# Accelerators
-- [Alchemist](https://alchemistaccelerator.com/) - Enterprise sales accelerator
-- [YCombinator](https://www.ycombinator.com/about/) - Seed funding for startups (from the creators of HackerNews)
-- [500 Startups](https://500.co/) - One of the top accelerators with a global presence
-- [Techstars](https://www.techstars.com/) - One of the world's leading accelerators offering a range of programs
+Before you build anything, these are the tools that change how a founder researches, writes and supports customers.
 
-# Finance
-- [Brex](https://www.brex.com/about/) - Banking for newly-founded tech startups made easy
-- [Revolut Business](https://www.revolut.com/business/business-account) - Control your payments, company cards, expenses and more from one app
-- [Ramp](https://ramp.com/) - Cards, bills, payments, approvals, and more for startups
-- [SmartBizCalc](https://smartbizcalc.com) - 300+ free business calculators for startups: break-even, profit margin, payroll tax, S-corp savings, and more
+- [ChatGPT](https://chatgpt.com/) - General-purpose assistant for research, writing, support drafts and operations.
+- [Claude](https://claude.ai/) - Long-context assistant suited to product specs, coding help and founder workflows.
+- [Perplexity](https://www.perplexity.ai/) - AI search with citations, useful for market research and competitive intel.
+- [NotebookLM](https://notebooklm.google.com/) - Ground a model in your own documents to interrogate contracts, research and transcripts.
 
-# Reading
-- [Ideas are just a multiplier of execution](http://sivers.org/multiply)
-- [Do things that don't scale by Paul Graham](http://paulgraham.com/ds.html)
-- [Startup = Growth by Paul Graham](http://paulgraham.com/growth.html)
-- [What startups are really like by Paul Graham](http://www.paulgraham.com/really.html)
-- [Startup Advice by Sam Altman](http://blog.samaltman.com/startup-advice)
-- [My Best Advice for Entrepreneurs: Learn to Speak](http://www.linkedin.com/today/post/article/20130819204919-62614725-my-best-advice-for-entrepreneurs)
-- [Paul Graham on Building Companies for Fast Growth ](http://www.inc.com/magazine/201309/issie-lapowsky/how-paul-graham-became-successful.html)
-- [The 30 Best Pieces of Advice for Entrepreneurs in 2013](http://firstround.com/article/30-Best-Pieces)
-- [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)
-- [27 books every startup ought to read by Hiten Shah](https://hitenism.com/startup-books/)
+### Models and Access
 
-# Engineering
+- [OpenAI Platform](https://developers.openai.com/api/docs) - API docs, pricing and model comparisons for the GPT family.
+- [Anthropic](https://platform.claude.com/docs/en/home) - Claude API docs, including prompt caching, batch pricing and agent tooling.
+- [Google AI Studio](https://aistudio.google.com/welcome) - Free tier to prototype against Gemini models before committing to Vertex AI.
+- [Mistral AI](https://mistral.ai/) - Open-weight and commercial European models, often the cheapest capable option.
+- [Llama Models](https://github.com/meta-llama/llama-models) - Meta's open-weight family and model cards, the default when you need to self-host.
+- [OpenRouter](https://openrouter.ai/) - One API and one bill across hundreds of models, which makes switching providers a config change rather than a migration.
+- [Hugging Face](https://huggingface.co/) - Models, datasets and Spaces, plus the leaderboards worth checking before you pick a base model.
+- [Artificial Analysis](https://artificialanalysis.ai/) - Independent benchmarks of quality, latency and price per token across providers.
+- [Arena](https://arena.ai/) - Blind human preference rankings, a useful sanity check against vendor benchmarks.
 
-- [Argonaut](https://argonaut.dev/) - Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments. Free forever startup tier allows unlimited apps and deployments for 5 environments and 2 users.
-- [Datadog](https://www.datadoghq.com/) - Modern app monitoring and security for applications
-- [The one cost engineers and product managers don't consider](https://web.archive.org/web/20200728004935if_/https://firstround.com/review/The-one-cost-engineers-and-product-managers-dont-consider/)
-- Software Engineering and Development is expensive and delicate. Use [Spurwing](https://www.spurwing.io/) instead of reinventing the wheel when it comes to time management solutions. Spurwing is like Stripe but for appointment scheduling. This API makes it easy to add robust appointment booking and calendaring features to any application. The Spurwing API is a secure and feature-rich, accessible product for building custom solutions, product integrations, scheduling and calendaring widgets. You are only limited by your own imagination.
-Reach out to [ilya@spurwing.io](ilya@spurwing.io) for an intro call.
+### Building with Agents
 
+- [Cursor](https://cursor.com/) - AI code editor with agents that plan and execute multi-file changes.
+- [Claude Code](https://claude.com/product/claude-code) - Anthropic's terminal-based coding agent.
+- [GitHub Copilot](https://github.com/features/copilot) - Completions, chat and coding agents inside GitHub and your editor.
+- [Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro) - The open standard for connecting models to tools and data. Worth understanding early, because shipping an MCP server is now how you make your product addressable by other people's agents.
+- [Vercel AI SDK](https://ai-sdk.dev/) - TypeScript toolkit for streaming, tool calls and generative UI.
+- [LangChain and LangGraph](https://www.langchain.com/) - Orchestration for chains and stateful, multi-step agents.
+- [LlamaIndex](https://www.llamaindex.ai/) - Data framework for retrieval over your own documents.
+- [Pydantic AI](https://pydantic.dev/docs/ai/overview/) - Type-safe Python agents with structured, validated outputs.
+- [DSPy](https://dspy.ai/) - Programming rather than prompting, with optimizers that tune prompts against your metric.
+- [Ollama](https://ollama.com/) - Run open models locally, which is the cheapest way to iterate and the simplest answer to "does our data leave the building?"
 
-# Venture Capital and Raising Money
+### Evaluation and Observability
 
-- [Black Swan farming by Paul Graham](http://paulgraham.com/swan.html)
-- [How to convince investors by Paul Graham](http://paulgraham.com/convince.html)
-- [Breaking Down a Typical VC/Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process/)
-- [Fundraising Mistakes Founders Make](http://blog.samaltman.com/fundraising-mistakes-founder-make)
-- [Pitch Decks for VCs - You’re doing it wrong.](https://medium.com/boost-vc/5-rules-for-the-pitch-deck-d7c7bbc3185d)
-- [Raising Capital: This is the Advice We Give Our Founders](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders/)
-- [Free Startup Pitch Deck Templates for Figma](https://www.figmafinder.com/figma-pitch-deck)
+Founders consistently underinvest here. Evals are the AI equivalent of a test suite: without them you cannot tell an improvement from a regression, and you will ship both.
 
-# Marketing Sales & Metrics
+- [Braintrust](https://www.braintrust.dev/) - Evals, prompt playground and logging for LLM products.
+- [LangSmith](https://www.langchain.com/langsmith/observability) - Tracing, evaluation and monitoring, usable without LangChain.
+- [Langfuse](https://langfuse.com/) - Open-source LLM observability, self-hostable.
+- [Arize Phoenix](https://arize.com/phoenix/) - Open-source tracing and evaluation built on OpenTelemetry.
+- [Weave](https://wandb.ai/site/weave/) - Weights & Biases' toolkit for tracking and comparing LLM app versions.
+- [Ragas](https://docs.ragas.io/en/stable/) - Metrics for retrieval-augmented pipelines.
+- [OpenAI Evals](https://github.com/openai/evals) - Framework and registry for benchmarking model behavior.
 
-- [The Pmarca Guide to Startups, part 4: The only thing that matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
-- [Startup Metrics for Pirates by Dave McClure](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
-- [How New User Acquisition Channels Drive Change](http://brianbalfour.com/post/58798523560/new-user-acquisition-channels)
-- [Guide to SaaS metrics by David Skok](http://www.forentrepreneurs.com/saas-metrics/)
-- [Free Marketing guides by Kissmetrics](http://blog.kissmetrics.com/marketing-guides/)
-- [Elements of a viral launch page by SmashingMagazine](http://www.smashingmagazine.com/2011/09/01/elements-of-a-viral-launch-page/)
-- [Self-Service SaaS: A Beginner’s Guide to Maximizing Growth](https://www.chargebee.com/resources/guides/self-service-saas-revenue-growth/) - There aren’t many resources available that thoroughly outline the basics of managing self-service revenue at a SaaS company, but Chargebee does a nice job of it in this guide. By explaining the basics, providing a framework, including real-world examples from the SaaS space, and linking out to additional resources this asset is a solid place to start!
+### Inference and Data Infrastructure
 
+- [Modal](https://modal.com/) - Serverless GPUs with per-second billing, well suited to spiky inference and batch jobs.
+- [Replicate](https://replicate.com/) - Run and fine-tune open models behind a hosted API.
+- [Baseten](https://www.baseten.co/) - Production model serving with autoscaling.
+- [Fal](https://fal.ai/) - Fast inference for image, video and audio models.
+- [vLLM](https://docs.vllm.ai/en/latest/) - High-throughput open-source serving engine, the standard for self-hosting.
+- [pgvector](https://github.com/pgvector/pgvector) - Vector search inside Postgres. Try this before adding a dedicated vector database.
+- [Qdrant](https://qdrant.tech/) - Open-source vector database with hybrid search.
+- [Pinecone](https://www.pinecone.io/) - Managed vector database.
+- [Turbopuffer](https://turbopuffer.com/) - Vector and full-text search on object storage, priced for large, cold datasets.
+- [DuckDB](https://duckdb.org/) - In-process analytics that removes the need for a warehouse until you actually need one.
 
-# Task Management & Collaboration
+### Trust, Safety and Regulation
 
-- [Asana](https://asana.com) - Track your team's work & manage projects
-- [Trello](https://trello.com) - Create and manage kanban boards
-- [Todoist](https://todoist.com) - The to do list to organize work & life
-- [Monday.com](https://monday.com/) - One platform, better teamwork
-- [Taskade](https://taskade.com) - Collaborative task lists and outlines
-- [Airtable](https://airtable.com) - Build flexible spreadsheets that behave like a database
-- [Jira](https://www.atlassian.com/software/jira) - Issue tickets, keep track of progress and plan your agile projects 
-- [Microsoft Teams](https://teams.microsoft.com/) - Business communication platform that offers workspace chat, videoconferencing, file storage and 3rd party app integration
-- [Wire](https://wire.com) - The most secure collaboration platform
-- [Feedbear](https://www.feedbear.com/) - Prioritize feature requests to build your roadmap.
-- [Notion](https://www.notion.so/) - All-in-one workspace for notes, tasks, wikis, and databases.
-- [Logit.io](https://logit.io/) - Collaborative visualisation platform with no limits on the number of users or teams.
+- [OWASP Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/) - The security checklist to read before you ship prompt-driven features.
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) - The framework enterprise buyers increasingly ask about.
+- [EU AI Act Explorer](https://artificialintelligenceact.eu/the-act/) - Browsable text of the Act, with obligations phasing in on staggered dates. Relevant to you if any user is in the EU.
+- [Microsoft Presidio](https://microsoft.github.io/presidio/) - Open-source PII detection and redaction for data leaving your systems.
 
+### Reading on AI Startups
 
-# Marketing Tools
+- [YC Requests for Startups](https://www.ycombinator.com/rfs) - What YC currently wants funded, which is a live signal on where the openings are.
+- [a16z on AI](https://a16z.com/ai/) - Market maps and infrastructure analysis.
+- [Generative AI's Act o1](https://sequoiacap.com/article/generative-ais-act-o1/) - Sequoia on the shift from fast pattern-matching to models that reason, and what it means for products.
+- [Emerging Architectures for LLM Applications](https://a16z.com/emerging-architectures-for-llm-applications/) - The reference diagram for how these systems fit together.
+- [Anthropic's Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) - Argues for simple, composable patterns over frameworks, and is right more often than not.
 
-- [Buffer](https://buffer.com) - Social Media analytics and Scheduling
-- [BuzzSumo](https://buzzsumo.com) - Find Most Shared Content and Key Influencers
-- [QuickTwit](https://quicktwit.com) - Tools for finding Trends in Topics
-- [Hootsuite](https://hootsuite.com) - Social Media Management Tools
-- [SocialBlade](https://socialblade.com/) - Social Media Statistics
-- [IFTTT](https://ifttt.com/) - Create custom triggers to automate social media workflows
-- [Zapier](https://zapier.com/) -  Alternative to ifttt : triggers based automated workflows
-- [Phantombuster](https://phantombuster.com/) - Automate social media via webscraping
-- [QApop](https://www.qapop.com/) - Find relevant Quora questions to answer 
-- [Smartlook](https://www.smartlook.com/)- Understand how people interact with your website and improve conversion
-- [SocialDog](https://social-dog.net/) - All-in-one Twitter marketing tool.
+## Engineering and Infrastructure
 
-# Coworking & Virtual Offices
-- [WeWork](https://wework.com)
-- [Regus](https://regus.com)
-- [Staples Studio](https://staples.com/studio)
-- [Canada Virtual Office](https://canadavirtualoffice.com)
+- [Vercel](https://vercel.com/) - Frontend and full-stack hosting with preview deployments per pull request.
+- [Railway](https://railway.com/) - Deploy backends and databases without managing infrastructure.
+- [Fly.io](https://fly.io/) - Run containers close to users in multiple regions.
+- [Render](https://render.com/) - Managed services, cron jobs and Postgres with a generous starting tier.
+- [Cloudflare](https://www.cloudflare.com/developer-platform/) - Workers, D1, R2 and queues, with egress pricing that matters at scale.
+- [Supabase](https://supabase.com/) - Postgres with auth, storage and realtime included.
+- [Neon](https://neon.com/) - Serverless Postgres with database branching, which pairs well with per-PR environments.
+- [Clerk](https://clerk.com/) - Authentication and user management you do not have to build.
+- [Sentry](https://sentry.io/welcome/) - Error and performance monitoring.
+- [Datadog](https://www.datadoghq.com/) - Modern application monitoring and security.
+- [Grafana Cloud](https://grafana.com/products/cloud/) - Dashboards, logs and traces with an open-source core.
+- [Doppler](https://www.doppler.com/) - Secrets management across environments.
+- [Depot](https://depot.dev/) - Faster container and CI builds, a cheap fix for slow feedback loops.
+- [The One Cost Engineers and Product Managers Don't Consider](https://web.archive.org/web/20200728004935if_/https://firstround.com/review/The-one-cost-engineers-and-product-managers-dont-consider/) - On complexity as a recurring cost rather than a one-time one.
+- [The Twelve-Factor App](https://12factor.net/) - Still the clearest baseline for building services that deploy cleanly.
+- [DORA](https://dora.dev/) - Research-backed metrics for delivery performance, and what actually improves them.
 
-# Leadership & People
-- [How to Start a Movement](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=en) - 3 minute video drawing parallels to leadership and the importance of the people that follow the leader.  Critical for a start-up to achieve and maintain alignment
-- [Employee Engagement: The Wonder Drug For Customer Satisfaction](https://www.forbes.com/sites/kevinkruse/2014/01/07/employee-engagement-the-wonder-drug-for-customer-satisfaction/#152c5aeb6d46) - short article showing the high correlation between employee engagement and customer satisfaction. Satisfied customers and happy/engaged employees produce the most amazing start-ups - or any type of company for that matter.
+## Product and Analytics
+
+- [PostHog](https://posthog.com/) - Product analytics, session replay, feature flags and experiments in one open-source platform.
+- [Amplitude](https://amplitude.com/) - Behavioral analytics for retention and funnel work.
+- [Mixpanel](https://mixpanel.com/home/) - Event analytics with a usable free tier.
+- [Statsig](https://www.statsig.com/) - Feature flags and experimentation with statistics you can defend.
+- [Metabase](https://www.metabase.com/) - Open-source BI, quick to point at your production replica.
+- [Maze](https://maze.co/) - Rapid, unmoderated user testing on prototypes.
+- [Dovetail](https://dovetail.com/) - Store and synthesize customer research so insights outlive the researcher.
+- [Feedbear](https://www.feedbear.com/) - Collect and prioritize feature requests to build your roadmap.
+- [16 Startup Metrics](https://a16z.com/16-startup-metrics/) - a16z's definitions of the numbers investors will ask about, and the ones founders commonly conflate.
+- [What Is Good Retention?](https://www.lennysnewsletter.com/p/what-is-good-retention-issue-29) - Benchmark retention curves by business model, so you know whether yours is a problem.
+
+## Design and Brand
+
+- [Figma](https://www.figma.com/) - Collaborative interface design, and the file format the industry speaks.
+- [Framer](https://www.framer.com/) - Design and publish marketing sites without a front-end build step.
+- [v0](https://v0.app/) - Generate React and Tailwind interfaces from prompts or screenshots.
+- [shadcn/ui](https://ui.shadcn.com/) - Copy-paste accessible components you own outright, rather than a dependency you fight.
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first styling that keeps small teams visually consistent.
+- [Radix Primitives](https://www.radix-ui.com/primitives) - Unstyled, accessible component behavior.
+- [Lucide](https://lucide.dev/) - Open-source icon set.
+- [Coolors](https://coolors.co/) - Fast palette generation.
+- [Refactoring UI](https://refactoringui.com/) - Practical visual design rules for developers without a designer.
+
+## Incorporation, Legal and Equity
+
+Getting the paperwork right at the start is far cheaper than fixing it during diligence, where a missing IP assignment or an unvested founder can stall a round.
+
+- [Stripe Atlas](https://stripe.com/atlas) - Incorporate a Delaware C-corp, get an EIN and issue founder stock.
+- [Clerky](https://www.clerky.com/) - Legal paperwork built specifically for startups raising money in the US.
+- [Carta](https://carta.com/) - Cap table, equity issuance and 409A valuations.
+- [Pulley](https://pulley.com/) - Cap table management with modeling aimed at earlier-stage teams.
+- [Firstbase](https://www.firstbase.io/) - Company formation and compliance for founders outside the US.
+- [Y Combinator SAFE documents](https://www.ycombinator.com/documents) - The standard post-money SAFE templates, free to use.
+- [Cooley GO](https://www.cooleygo.com/) - Free document generators and plain-language explanations of startup legal mechanics.
+- [Docusign](https://www.docusign.com/) - Electronic signatures.
+
+## Finance and Banking
+
+- [Mercury](https://mercury.com/) - Banking built for startups, with sensible treasury options.
+- [Brex](https://www.brex.com/) - Corporate cards and spend management for newly founded tech startups.
+- [Ramp](https://ramp.com/) - Cards, bills, payments and approvals with automated expense controls.
+- [Revolut Business](https://www.revolut.com/business/) - Control payments, company cards and expenses from one app, useful for multi-currency operations.
+- [Stripe](https://stripe.com/) - Payments, billing and tax.
+- [Wise Business](https://wise.com/business/) - Low-cost cross-border payments and multi-currency accounts.
+- [Pilot](https://pilot.com/) - Outsourced bookkeeping, tax and CFO support.
+- [Puzzle](https://puzzle.io/) - Accounting that stays close to real time, so your burn number is current.
+- [Guide to SaaS Metrics by David Skok](https://www.forentrepreneurs.com/saas-metrics/) - The definitive treatment of CAC, LTV and the cash flow trough.
+- [The SaaS Metrics That Matter](https://www.bvp.com/atlas/scaling-to-100-million) - Bessemer's benchmarks for growth, efficiency and retention.
+- [How Much To Start A Business](https://howmuchtostartabusiness.com/) - Estimate startup costs for 100+ business types, including legal, equipment, staffing and more
+- [SmartBizCalc](https://smartbizcalc.com) - 700+ free calculators for small business owners: self-employment tax, payroll, 1099 vs. W-2, break-even analysis, startup costs, profit margin, and contractor pricing. No sign-up required.
+
+## Security and Compliance
+
+Your first serious enterprise customer will send a security questionnaire. Having answers ready is a sales advantage, not just a cost.
+
+- [Vanta](https://www.vanta.com/) - Automated SOC 2, ISO 27001 and HIPAA compliance monitoring.
+- [Drata](https://drata.com/) - Continuous compliance automation and audit readiness.
+- [Secureframe](https://secureframe.com/) - Compliance automation across common frameworks.
+- [1Password](https://1password.com/business-security) - Credential management for teams.
+- [Snyk](https://snyk.io/) - Find and fix vulnerabilities in dependencies and containers.
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/) - The baseline web application risks to design against.
+- [Awesome Secure Defaults](https://github.com/tldrsec/awesome-secure-defaults) - Libraries that are safe by default, so security is the path of least resistance.
+
+## Venture Capital and Raising Money
+
+- [Venture Deals course](https://venturedeals.com/) - Free companion course to the book, run by Techstars.
+- [How to Raise Money by Paul Graham](https://paulgraham.com/fr.html) - The mechanics and psychology of a fundraise.
+- [How to Convince Investors by Paul Graham](https://paulgraham.com/convince.html) - Be formidable, or at least be clear.
+- [Black Swan Farming by Paul Graham](https://paulgraham.com/swan.html) - Why the best investments look like bad ideas.
+- [Fundraising Mistakes Founders Make](https://blog.samaltman.com/fundraising-mistakes-founder-make) - Common own-goals, enumerated.
+- [Breaking Down a Typical VC Diligence Process](https://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process/) - What happens after the term sheet.
+- [Five Rules for the Pitch Deck](https://medium.com/boost-vc/5-rules-for-the-pitch-deck-d7c7bbc3185d) - Structure that survives a ten-minute meeting.
+- [Raising Capital: The Advice We Give Our Founders](https://a16z.com/raising-capital-this-is-the-advice-we-give-our-founders/) - a16z on valuation and dilution tradeoffs.
+- [YC's Guide to Seed Fundraising](https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising) - Process, instruments and how much to raise.
+- [Sequoia's Writing a Business Plan](https://sequoiacap.com/article/writing-a-business-plan/) - The deck outline a great many decks are copied from.
+- [AngelList](https://www.angellist.com/) - Fundraising, syndicates, roll-ups and startup equity tooling. Distinct from Wellfound, which took over the jobs and talent side.
+- [OpenVC](https://www.openvc.app/) - Searchable, filterable database of investors and their theses.
+- [Signal by NFX](https://signal.nfx.com/) - Investor search with warm-intro paths.
+
+## Accelerators
+
+- [Y Combinator](https://www.ycombinator.com/) - Seed funding, a strong network and the standard deal.
+- [Techstars](https://www.techstars.com/) - One of the world's leading accelerators, with programs by city and vertical.
+- [500 Global](https://500.co/) - Global accelerator and seed fund, formerly 500 Startups.
+- [Alchemist Accelerator](https://www.alchemistaccelerator.com/) - Focused on enterprise sales.
+- [Entrepreneur First](https://www.joinef.com/) - Funds individuals before they have a company or a cofounder.
+- [AI Grant](https://aigrant.com/) - Non-dilutive-style funding and compute credits for AI-native startups.
+- [Antler](https://www.antler.co/) - Day-zero investing with cofounder matching across many cities.
+- [South Park Commons](https://www.southparkcommons.com/) - A community for people in the pre-idea stage.
+
+## Marketing, Sales and Metrics
+
+- [Startup Metrics for Pirates by Dave McClure](https://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version) - The AARRR framework: acquisition, activation, retention, referral, revenue.
+- [How New User Acquisition Channels Drive Change](http://brianbalfour.com/essays/new-user-acquisition-channels) - Brian Balfour on channel timing and saturation.
+- [Four Fits for $100M+ Growth](https://brianbalfour.com/four-fits-growth-framework) - Why product-market fit alone does not produce growth.
+- [Elements of a Viral Launch Page](https://www.smashingmagazine.com/2011/09/elements-of-a-viral-launch-page/) - Old but the fundamentals of a landing page have not moved.
+- [Self-Service SaaS: A Beginner's Guide to Maximizing Growth](https://www.chargebee.com/resources/guides/self-service-saas-revenue-growth/) - A framework and real examples for managing self-service revenue.
+- [Neil Patel's marketing blog](https://neilpatel.com/blog/) - Successor home for the Kissmetrics marketing guides.
+- [Founding Sales](https://www.foundingsales.com/) - A free book on building the first sales motion when the founder is the salesperson.
+- [Pricing Low-Touch SaaS](https://stripe.com/guides/atlas/saas-pricing) - Stripe's guide to the pricing decisions founders defer for too long.
+
+## Marketing Tools
+
+- [Buffer](https://buffer.com/) - Social media scheduling and analytics.
+- [Hootsuite](https://www.hootsuite.com/) - Social media management.
+- [BuzzSumo](https://buzzsumo.com/) - Find the most shared content and the key influencers in a niche.
+- [Ahrefs](https://ahrefs.com/) - SEO, backlink and keyword research.
+- [Resend](https://resend.com/) - Transactional email built for developers.
+- [Customer.io](https://customer.io/) - Behavior-triggered messaging across email, push and in-app.
+- [Loops](https://loops.so/) - Simple email marketing for SaaS teams.
+- [Zapier](https://zapier.com/) - Trigger-based automated workflows between apps.
+- [IFTTT](https://ifttt.com/) - Custom triggers to automate social and device workflows.
+- [n8n](https://n8n.io/) - Open-source, self-hostable workflow automation with native AI steps.
+- [Phantombuster](https://phantombuster.com/) - Automate social media data collection via scraping.
+- [SocialBlade](https://socialblade.com/) - Social media statistics and channel tracking.
+- [SocialDog](https://social-dog.net/) - All-in-one X and Twitter marketing tool.
+- [Smartlook](https://www.smartlook.com/) - Understand how people interact with your site and improve conversion.
+- [QuickTwit](https://quicktwit.com/) - Find trends in topics.
+
+## Task Management and Collaboration
+
+- [Linear](https://linear.app/) - Issue tracking and project management that engineering teams adopt without being told to.
+- [Notion](https://www.notion.com/) - All-in-one workspace for notes, docs, wikis and lightweight databases.
+- [Asana](https://asana.com/) - Track your team's work and manage projects.
+- [Jira](https://www.atlassian.com/software/jira) - Issue tracking and agile planning at larger scale.
+- [Trello](https://trello.com/) - Create and manage kanban boards.
+- [Airtable](https://www.airtable.com/) - Flexible spreadsheets that behave like a database.
+- [Monday.com](https://monday.com/) - One platform for cross-functional teamwork.
+- [Todoist](https://www.todoist.com/) - A to-do list to organize work and life.
+- [Taskade](https://www.taskade.com/) - Collaborative task lists and outlines.
+- [Slack](https://slack.com/) - Team chat and the integration surface most tools target.
+- [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/) - Workspace chat, videoconferencing, file storage and third-party integrations.
+- [Wire](https://wire.com/en/) - End-to-end encrypted collaboration.
+- [Loom](https://www.loom.com/) - Async video updates, which replace a surprising number of meetings.
+- [Cal.com](https://cal.com/) - Open-source scheduling infrastructure you can embed or self-host.
+- [Logit.io](https://logit.io/) - Collaborative observability with no per-user limits.
+
+## Hiring, Remote and People Ops
+
+- [Deel](https://www.deel.com/) - Hire employees and contractors internationally without opening entities.
+- [Remote](https://remote.com/) - Employer of record, payroll and benefits across many countries.
+- [Rippling](https://www.rippling.com/) - HR, IT and finance in one system, including device provisioning.
+- [Gusto](https://gusto.com/) - Payroll and benefits for US teams.
+- [Ashby](https://www.ashbyhq.com/) - Applicant tracking with analytics that show where your funnel leaks.
+- [Wellfound](https://wellfound.com/) - Startup jobs and candidate sourcing, formerly AngelList Talent.
+- [Welcome to the Jungle](https://www.welcometothejungle.com/) - Curated job marketplace skewed toward startup roles, which absorbed Otta.
+- [Levels.fyi](https://www.levels.fyi/) - Compensation data for calibrating offers.
+- [The Holloway Guide to Equity Compensation](https://www.holloway.com/g/equity-compensation/preview) - Explain equity to candidates correctly, in detail.
+- [Who: The A Method for Hiring](https://www.amazon.com/Who-Method-Hiring-Geoff-Smart/dp/0345504194) - A structured interview process that reduces expensive mis-hires.
+
+## Leadership and People
+
+- [How to Start a Movement](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement) - Three-minute video on leadership and the followers who make a leader, critical for a startup achieving and maintaining alignment.
+- [Employee Engagement: The Wonder Drug For Customer Satisfaction](https://www.forbes.com/sites/kevinkruse/2014/01/07/employee-engagement-the-wonder-drug-for-customer-satisfaction/) - Short article on the high correlation between employee engagement and customer satisfaction.
+- [The Manager's Path by Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) - What each rung of engineering leadership actually requires.
+- [An Elegant Puzzle by Will Larson](https://lethain.com/elegant-puzzle/) - Systems thinking applied to engineering organizations.
+- [Rands in Repose: The Management Bookshelf](https://randsinrepose.com/archives/the-management-bookshelf/) - A curated path through management writing.
+- [Radical Candor](https://www.radicalcandor.com/) - Care personally and challenge directly, with the failure modes named.
+- [Firing beats hiring for early stage teams](notes/500-startups-firing-vs-hiring.md) - Notes from a 500 Startups session on early team composition.
+
+## Coworking and Virtual Offices
+
+- [WeWork](https://www.wework.com/) - Coworking and private offices in most major cities.
+- [Regus](https://www.regus.com/) - Offices, coworking and virtual addresses worldwide.
+- [Industrious](https://www.industriousoffice.com/) - Coworking aimed at small teams wanting quieter space.
+- [Staples Studio](https://www.staples.com/stores/studio) - Low-cost coworking in North America.
+- [Canada Virtual Office](https://canadavirtualoffice.com/) - Virtual addresses and mail handling in Canada.
+- [Deskpass](https://www.deskpass.com/) - On-demand access to many spaces on one membership, which suits distributed teams.
+
+## Newsletters and Podcasts
+
+- [Lenny's Newsletter](https://www.lennysnewsletter.com/) - Product, growth and career advice with unusually concrete detail.
+- [Acquired](https://www.acquired.fm/) - Deep company histories that teach strategy through cases.
+- [The Diff](https://www.thediff.co/) - Inflections in finance and technology.
+- [Stratechery](https://stratechery.com/) - Ben Thompson on business strategy in tech.
+- [My First Million](https://www.mfmpod.com/) - Business ideas and opportunity spotting.
+- [Y Combinator blog and podcast](https://www.ycombinator.com/blog) - Founder and partner conversations, plus current program thinking.
+- [Latent Space](https://www.latent.space/) - AI engineering, for founders building on models.
+- [SaaStr](https://www.saastr.com/) - Operational benchmarks for B2B SaaS at every stage.
+
+## Data and Market Research
+
+- [Crunchbase](https://www.crunchbase.com/) - Company, funding and investor data.
+- [Product Hunt](https://www.producthunt.com/) - Daily launches, and a launch channel in its own right.
+- [Hacker News](https://news.ycombinator.com/) - Where a technical audience finds and criticizes new products.
+- [Sacra](https://sacra.com/) - Research on private company revenue and growth.
+- [PitchWall](https://pitchwall.co/) - Discover and launch early-stage products, successor to BetaPage.
+- [One Person Company](https://onepersoncompany.com/) - Guides, tools and playbooks for building a profitable solo business with AI.
+- [Exploding Topics](https://explodingtopics.com/) - Spot demand trends before they are obvious.
+- [Google Trends](https://trends.google.com/trends/) - Free validation of search demand and seasonality.
+- [Statista](https://www.statista.com/) - Market size data for decks, with sources you should check.
+
+## Notes
+
+- [Firing beats hiring for early stage teams](notes/500-startups-firing-vs-hiring.md) - Session notes on why early team quality compounds.
+
+## Contributing
+
+Contributions are welcome. Please read the [contribution guidelines](CONTRIBUTING.md) first: entries should be genuinely useful to founders, described in your own words, and free of affiliate or referral links.
+
+Links are checked automatically every week by a [GitHub Actions workflow](.github/workflows/link-check.yml). If you find a dead link, a pull request removing or replacing it is always welcome.
+
+## License
+
+[MIT](LICENSE.md)
