@@ -239,6 +239,7 @@ Getting the paperwork right at the start is far cheaper than fixing it during di
 - [Y Combinator SAFE documents](https://www.ycombinator.com/documents) - The standard post-money SAFE templates, free to use.
 - [Cooley GO](https://www.cooleygo.com/) - Free document generators and plain-language explanations of startup legal mechanics.
 - [Docusign](https://www.docusign.com/) - Electronic signatures.
+- [CofounderFit](https://www.cofounderfit.com/) - Founder assessment that compares two cofounders before they agree on roles, equity and vesting; free profile, paid team session.
 
 ## Finance and Banking
 
