@@ -129,6 +129,7 @@ Before you build anything, these are the tools that change how a founder researc
 - [Hugging Face](https://huggingface.co/) - Models, datasets and Spaces, plus the leaderboards worth checking before you pick a base model.
 - [Artificial Analysis](https://artificialanalysis.ai/) - Independent benchmarks of quality, latency and price per token across providers.
 - [Arena](https://arena.ai/) - Blind human preference rankings, a useful sanity check against vendor benchmarks.
+- [Free LLM API Hub](https://freellmapihub.com) - Dated, sourced comparison of free tiers and trial credits across 60+ LLM API providers, useful before committing to a paid plan.
 
 ### Building with Agents
 
