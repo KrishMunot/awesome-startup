@@ -311,6 +311,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [BuzzSumo](https://buzzsumo.com/) - Find the most shared content and the key influencers in a niche.
 - [Ahrefs](https://ahrefs.com/) - SEO, backlink and keyword research.
 - [Resend](https://resend.com/) - Transactional email built for developers.
+- [Transmitly](https://transmitly.io/) - Transactional email API and SMTP relay with a free tier for developers.
 - [Customer.io](https://customer.io/) - Behavior-triggered messaging across email, push and in-app.
 - [Loops](https://loops.so/) - Simple email marketing for SaaS teams.
 - [Zapier](https://zapier.com/) - Trigger-based automated workflows between apps.
