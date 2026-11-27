@@ -321,6 +321,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [SocialDog](https://social-dog.net/) - All-in-one X and Twitter marketing tool.
 - [Smartlook](https://www.smartlook.com/) - Understand how people interact with your site and improve conversion.
 - [QuickTwit](https://quicktwit.com/) - Find trends in topics.
+- [SaaSCity](https://saascity.io/) - Interactive SaaS launch directory, free homepage readiness audit tools, and a benchmark of 1,600+ startup directories.
 
 ## Task Management and Collaboration
 
