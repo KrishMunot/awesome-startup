@@ -321,6 +321,7 @@ Your first serious enterprise customer will send a security questionnaire. Havin
 - [SocialDog](https://social-dog.net/) - All-in-one X and Twitter marketing tool.
 - [Smartlook](https://www.smartlook.com/) - Understand how people interact with your site and improve conversion.
 - [QuickTwit](https://quicktwit.com/) - Find trends in topics.
+- [The SEO Agent](https://www.theseoagent.ai/) - Automated technical SEO audits, keyword planning, and CMS article publishing for founders.
 
 ## Task Management and Collaboration
 
